@@ -1,0 +1,2345 @@
+Question,Answer,Context
+هل يمكن لدافعي الضرائب الذين لديهم بالفعل حسابات إلكترونية لضريبة القيمة المضافة أو ضريبة الشركات الاستفادة تلقائيًا من خدمة التصريح والدفع الإلكتروني لضريبة الدخل؟,"نعم، وفقًا للمادة الثانية من المرسوم رقم 696-14 الصادر في 11 جمادى الأولى 1435 (13 مارس 2014)، فإن دافعي الضرائب الذين لديهم بالفعل حسابات إلكترونية لضريبة القيمة المضافة (TVA) و/أو ضريبة الشركات (IS) يتم منحهم تلقائيًا حق الوصول إلى خدمة التصريح والدفع الإلكتروني لضريبة الدخل (IR). لا يحتاجون إلى تقديم طلب إضافي للانضمام إلى هذه الخدمة.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+ما هي أنواع الشهادات الإلكترونية التي يمكن استخدامها للتصريح والدفع الإلكتروني لضريبة الدخل؟,"بناءً على المرسوم الوزاري رقم 696-14 الصادر في 11 جمادى الأولى 1435 (13 مارس 2014)، يمكن للملزمين استخدام نوعين من الشهادات الإلكترونية للتصريح والدفع الإلكتروني لضريبة الدخل:
+
+1.  **الشهادات الإلكترونية الصادرة عن مزود خدمات التصديق الإلكتروني المعتمد:** وهي الشهادات التي يتم إصدارها من قبل جهات معتمدة وفقًا للقانون رقم 53-05 المتعلق بالتبادل الإلكتروني للمعطيات القانونية.
+
+2.  **الشهادات الإلكترونية الصادرة سابقًا عن المديرية العامة للضرائب:** وهي الشهادات التي كانت المديرية العامة للضرائب قد أصدرتها للملزمين قبل صدور هذا المرسوم.
+
+باختصار، يمكن للملزمين استخدام الشهادات الإلكترونية التي حصلوا عليها من مزودي خدمات التصديق المعتمدين أو الشهادات التي سبق أن حصلوا عليها من المديرية العامة للضرائب.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+كيف يتم ضمان صحة وتأمين عمليات التصريح والدفع الإلكتروني لضريبة الدخل؟,"بالتأكيد، سأقدم لك إجابة مفصلة حول كيفية ضمان صحة وتأمين عمليات التصريح والدفع الإلكتروني لضريبة الدخل، بناءً على المعلومات الواردة في النص:
+
+**آليات ضمان صحة وتأمين عمليات التصريح والدفع الإلكتروني لضريبة الدخل:**
+
+1.  **التوقيع الإلكتروني:**
+    *   يجب أن تتضمن كل من التصريحات والدفعات الإلكترونية توقيعًا إلكترونيًا للمكلف.
+    *   يتم إنتاج هذا التوقيع باستخدام نظام إلكتروني خاص بالمديرية العامة للضرائب.
+    *   يستخدم التوقيع الإلكتروني شهادة إلكترونية معتمدة، إما صادرة من مزود خدمات تصديق إلكتروني معتمد أو من المديرية العامة للضرائب نفسها.
+    *   هذا التوقيع يضمن أن التصريح أو الدفع صادر من المكلف المعني، ويحمي من التزوير.
+
+2.  **شهادات إلكترونية:**
+    *   يستخدم المكلفون شهادات إلكترونية للوصول إلى خدمات التصريح والدفع الإلكتروني.
+    *   تضمن هذه الشهادات هوية المستخدم وتسمح له بالوصول الآمن إلى النظام.
+    *   يمكن للمكلفين استخدام شهادات إلكترونية صادرة من مزودي خدمات التصديق المعتمدين أو من المديرية العامة للضرائب.
+
+3.  **إيصالات وإشعارات إلكترونية:**
+    *   بعد إتمام التصريح أو الدفع الإلكتروني، يتلقى المكلف إيصالًا وإشعارًا إلكترونيًا من المديرية العامة للضرائب.
+    *   يتم توقيع هذه الإيصالات والإشعارات إلكترونيًا من قبل المديرية.
+    *   تتضمن الإيصالات والإشعارات تاريخ ووقت إيداع التصريح أو الدفع، مما يثبت استلام المديرية للمعاملة في الوقت المحدد.
+
+4.  **نظام ""Simpl"" للخدمات الإلكترونية:**
+    *   تستخدم المديرية العامة للضرائب نظامًا يسمى ""Simpl"" لتقديم خدمات التصريح والدفع الإلكتروني.
+    *   يوفر هذا النظام واجهة آمنة للمكلفين لإجراء معاملاتهم الضريبية.
+    *   يسمح النظام للمكلفين بإجراء التصريحات والدفعات عبر طريقتين: تبادل النماذج المعلوماتية (EFI) وتبادل البيانات المعلوماتية (EDI).
+
+5.  **مسؤولية المكلف:**
+    *   يتحمل المكلف المسؤولية الكاملة عن محتوى التصريحات والدفعات الإلكترونية التي يقوم بها.
+    *   يتحمل المكلف أيضًا مسؤولية أي أخطاء في الإرسال أو التعامل مع النظام، سواء كانت من جانبه أو من جانب الشخص الذي يمثله أو يفوضه.
+
+6.  **قواعد الأمان:**
+    *   يجب على المكلف الالتزام بقواعد استخدام نظام ""Simpl"" واتخاذ التدابير اللازمة لمنع أي استخدام غير مصرح به للخدمات.
+    *   يجب على المكلف إبلاغ المديرية العامة للضرائب إذا علم أن بيانات التوقيع الإلكتروني الخاصة به قد تعرضت للخطر.
+    *   يجب على المكلف التأكد من صحة واكتمال المعلومات الموجودة في الشهادة الإلكترونية الخاصة به وإبلاغ المديرية بأي تغييرات.
+
+7.  **التدقيق والأرشفة:**
+    *   تقوم المديرية العامة للضرائب بأرشفة التصريحات والدفعات الإلكترونية الموقعة إلكترونيًا، بالإضافة إلى التوقيعات المرتبطة بها.
+    *   يتم ذلك لأغراض التدقيق، وفي حالة وجود نزاعات، ولضمان أمن المعاملات المرسلة.
+
+8.  **التحقق من الحساب البنكي:**
+    *   في حالة الدفع الإلكتروني، يجب على المكلف تزويد المديرية العامة للضرائب بتفاصيل حسابه البنكي (أو حساباته) وتفويض بالخصم من الحساب.
+    *   يجب على المكلف التأكد من صلاحية الحساب البنكي وتوفر الرصيد الكافي.
+    *   لا يعتبر الدفع ساريًا إلا بعد استلام المديرية العامة للضرائب إشعارًا بإيداع المبلغ في حساب الخزينة.
+
+**باختصار،** يتم ضمان صحة وتأمين عمليات التصريح والدفع الإلكتروني لضريبة الدخل من خلال مجموعة من الإجراءات والتقنيات، بما في ذلك التوقيع الإلكتروني، والشهادات الإلكترونية، والإيصالات والإشعارات الإلكترونية، ونظام ""Simpl"" الآمن، بالإضافة إلى مسؤولية المكلف والتزامه بقواعد الأمان.
+
+آمل أن يكون هذا الشرح مفيدًا وواضحًا. إذا كان لديك أي أسئلة أخرى، فلا تتردد في طرحها.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+ما هي الإجراءات التي يجب على دافعي الضرائب اتباعها في حالة انقطاع خدمة التصريح والدفع الإلكتروني؟,"وفقًا للمادة 8 من المرسوم رقم 696-14 الصادر في 11 جمادى الأولى 1435 (13 مارس 2014)، في حالة انقطاع الوصول إلى الخدمات الإلكترونية للتصريح والدفع الإلكتروني لأي سبب كان، يجب على دافعي الضرائب المعنيين الوفاء بالتزاماتهم الضريبية بالطرق التقليدية المعتادة.
+
+**باختصار، في حالة انقطاع الخدمة الإلكترونية، يجب على دافعي الضرائب استخدام الطرق التقليدية لتقديم الإقرارات الضريبية ودفع الضرائب.**
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+ما هي الإجراءات التي يجب على دافعي الضرائب اتباعها لتقديم طلب الانضمام إلى خدمة التصريح والدفع الإلكتروني؟,"بناءً على المرسوم رقم 696-14 الصادر في 11 جمادى الأولى 1435 (13 مارس 2014) المتعلق بتحديد شروط تطبيق إجراء التصريح والدفع الإلكتروني لضريبة الدخل، يجب على دافعي الضرائب اتباع الإجراءات التالية لتقديم طلب الانضمام إلى هذه الخدمة:
+
+1.  **تقديم طلب الانضمام:** يجب على دافعي الضرائب الراغبين في استخدام خدمة التصريح والدفع الإلكتروني تقديم طلب انضمام إلى المديرية العامة للضرائب. يمكن تقديم هذا الطلب إما عن طريق نموذج مطبوع تعده المديرية العامة للضرائب أو إلكترونيًا عبر نظام ""Simpl"".
+
+2.  **الحصول على رموز الوصول والشهادة الإلكترونية:** بعد الموافقة على طلب الانضمام، تقوم المديرية العامة للضرائب بتزويد دافع الضرائب برموز الوصول اللازمة للدخول إلى النظام الإلكتروني، بالإضافة إلى شهادة إلكترونية خاصة به. هذه الشهادة ضرورية للتحقق من هوية الموقع على التصريحات والدفعات الإلكترونية.
+
+3.  **تحديد الحسابات البنكية:** بالنسبة لخدمة الدفع الإلكتروني، يجب على دافع الضرائب تزويد المديرية العامة للضرائب بتفاصيل الحسابات البنكية (RIB) الخاصة به، والتي يمكن أن تكون حسابًا واحدًا أو اثنين أو ثلاثة حسابات مفتوحة باسمه. كما يجب عليه تقديم تفويض بالخصم البنكي موقع من البنك (البنوك) التي يتعامل معها.
+
+4.  **تحديد الحساب البنكي لكل عملية دفع:** عند كل عملية دفع إلكتروني، يجب على دافع الضرائب تحديد المبلغ المراد دفعه وتأكيد الحساب البنكي الذي سيتم الخصم منه. كما يجب عليه إصدار أمر خصم موقع إلكترونيًا.
+
+5.  **الالتزام بقواعد الاستخدام:** يجب على دافع الضرائب الالتزام بقواعد استخدام الخدمات الإلكترونية ""Simpl"" واتخاذ التدابير اللازمة لتجنب أي استخدام غير مصرح به لهذه الخدمات. كما يجب عليه إبلاغ المديرية العامة للضرائب في حال علمه بأن البيانات المتعلقة بإنشاء التوقيع الإلكتروني قد تعرضت للخطر.
+
+**ملاحظات هامة:**
+
+*   **الانضمام التلقائي:** يتم منح الوصول التلقائي إلى هذه الخدمة لدافعي الضرائب الذين لديهم بالفعل وصول إلى الخدمات الإلكترونية لضريبة القيمة المضافة (TVA) و/أو ضريبة الشركات (IS).
+*   **المسؤولية:** يظل دافع الضرائب مسؤولاً وحده عن محتويات التصريحات والدفعات الإلكترونية التي يقوم بها، وكذلك عن أي خطأ في الإرسال أو التعامل من جانبه أو من جانب الشخص الذي يمثله أو يفوضه.
+*   **التوقيع الإلكتروني:** يجب أن يتضمن التصريح والدفع الإلكتروني التوقيع الإلكتروني لدافع الضرائب، والذي يتم إنشاؤه باستخدام الشهادة الإلكترونية.
+*   **الإيصالات والإشعارات:** يتلقى دافعو الضرائب إيصالات وإشعارات باستلام التصريح والدفع الإلكتروني، موقعة إلكترونيًا من قبل المديرية العامة للضرائب. يجب أن تتضمن هذه الإيصالات والإشعارات تاريخ ووقت الإيداع.
+*   **المواعيد النهائية:** يجب على دافعي الضرائب إجراء التصريحات والدفعات الإلكترونية في المواعيد المحددة في القانون العام للضرائب.
+*   **الحالات الطارئة:** في حالة انقطاع الوصول إلى الخدمات الإلكترونية، يجب على دافعي الضرائب الوفاء بالتزاماتهم الضريبية بالطرق التقليدية.
+
+باختصار، يجب على دافعي الضرائب الراغبين في استخدام خدمة التصريح والدفع الإلكتروني تقديم طلب انضمام، وتوفير المعلومات اللازمة، والالتزام بقواعد الاستخدام، والتأكد من صحة البيانات المقدمة.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+ما هي الإجراءات التي يجب على دافعي الضرائب اتباعها لتحديث معلوماتهم البنكية في نظام الدفع الإلكتروني؟,"بناءً على المعلومات الواردة في النص، فإن الإجراءات التي يجب على دافعي الضرائب اتباعها لتحديث معلوماتهم البنكية في نظام الدفع الإلكتروني (e-services ""Simpl"") هي كالتالي:
+
+1.  **تقديم كشف الحساب البنكي (RIB):** يجب على دافع الضرائب الذي انضم إلى نظام الدفع الإلكتروني أن يقدم إلى المديرية العامة للضرائب كشفًا للهوية البنكية (RIB) لحساب بنكي واحد أو اثنين أو ثلاثة حسابات مفتوحة باسمه.
+2.  **تقديم إذن بالخصم البنكي:** يجب على دافع الضرائب أن يقدم في نفس الوقت إلى المديرية العامة للضرائب إذنًا بالخصم البنكي موقعًا من البنك (البنوك) التي يتعامل معها.
+3.  **تحديد الحساب البنكي لكل عملية دفع:** يجب على دافع الضرائب أن يحدد لكل عملية دفع إلكتروني المبلغ المراد دفعه ويؤكد الحساب البنكي الذي سيتم الخصم منه.
+4.  **إصدار أمر خصم إلكتروني:** يجب على دافع الضرائب أن يصدر أمر خصم موقعًا إلكترونيًا.
+
+**ملاحظات هامة:**
+
+*   يجب على دافع الضرائب التأكد من صحة الحساب البنكي الذي قام بتحديده وتوفر الرصيد الكافي فيه.
+*   لا يتم اعتبار الدفع ساري المفعول إلا بعد استلام المديرية العامة للضرائب إشعارًا بإيداع المبلغ في حساب الخزينة المفتوح لدى بنك المغرب.
+*   يتم احتساب المواعيد القانونية بناءً على تاريخ إشعار استلام الدفع الإلكتروني الذي ترسله المديرية العامة للضرائب إلى دافع الضرائب.
+
+**باختصار، يجب على دافع الضرائب تقديم معلوماته البنكية وتفويض المديرية العامة للضرائب بالخصم من حسابه، وتحديد الحساب والمبلغ لكل عملية دفع إلكتروني.**
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+ما هي المسؤوليات التي يتحملها دافع الضرائب فيما يتعلق بمحتوى التصريحات والدفعات الإلكترونية؟,"وفقًا للنص المقدم، يتحمل دافع الضرائب المسؤولية الكاملة عن محتويات التصريحات والدفعات الإلكترونية التي يقوم بها، بالإضافة إلى أي أخطاء في الإرسال أو التعامل من جانبه أو من جانب الشخص الذي يمثله أو يفوضه. وهذا يشمل:
+
+*   **محتوى التصريحات والدفعات:** يجب على دافع الضرائب التأكد من دقة واكتمال المعلومات المقدمة في التصريحات والدفعات الإلكترونية.
+*   **أخطاء الإرسال والتعامل:** يتحمل دافع الضرائب مسؤولية أي أخطاء تحدث أثناء عملية الإرسال أو التعامل مع النظام الإلكتروني، سواء كانت هذه الأخطاء ناتجة عن فعله أو فعل الشخص الذي يمثله أو يفوضه.
+*   **التحقق من صحة الحساب البنكي:** يجب على دافع الضرائب التأكد من صحة الحساب البنكي الذي يحدده للدفع الإلكتروني وتوفر الرصيد الكافي فيه.
+*   **الحفاظ على أمان البيانات:** يجب على دافع الضرائب اتخاذ التدابير اللازمة لتجنب أي استخدام غير مصرح به للخدمات الإلكترونية، وإبلاغ الإدارة العامة للضرائب في حالة الاشتباه في اختراق بيانات التوقيع الإلكتروني.
+*   **تحديث المعلومات:** يجب على دافع الضرائب إبلاغ الإدارة العامة للضرائب بأي تغييرات تطرأ على المعلومات المتعلقة بالشهادة الإلكترونية.
+
+باختصار، يقع على عاتق دافع الضرائب مسؤولية كاملة عن جميع جوانب عملية التصريح والدفع الإلكتروني، بدءًا من دقة البيانات وصولًا إلى أمان العملية.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+"Quelles sont les deux méthodes de transmission des télédéclarations et télépaiements offertes par les e-services ""Simpl"" de la direction générale des impôts ?","Selon l'annexe de l'arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014), les e-services ""Simpl"" de la direction générale des impôts permettent aux contribuables d'effectuer les déclarations et les paiements des impôts et taxes par voie électronique, à travers deux modes de transmission :
+
+1.  **Échange de formulaires informatisé (EFI)**
+2.  **Échange de données informatisé (EDI)**
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+"Comment un contribuable peut-il adhérer aux e-services ""Simpl"" pour la télédéclaration et le télépaiement de l'impôt sur le revenu ?","D'après l'annexe de l'arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014), voici comment un contribuable peut adhérer aux e-services ""Simpl"" pour la télédéclaration et le télépaiement de l'impôt sur le revenu :
+
+**1. Demande d'adhésion :**
+
+*   Le contribuable doit présenter une demande d'adhésion aux e-services ""Simpl"".
+*   Cette demande peut être faite :
+    *   Sur ou d'après un imprimé établi par la direction générale des impôts.
+    *   Par voie électronique à travers le service ""Simpl"".
+
+**2. Durée de l'adhésion :**
+
+*   L'adhésion est d'une durée indéterminée.
+
+**3. Matérialisation de l'adhésion :**
+
+*   L'adhésion est matérialisée par la délivrance, par la direction générale des impôts :
+    *   Des codes d'accès.
+    *   Le cas échéant, d'un certificat électronique propre à l'adhérent. Ce certificat permet de s'assurer de l'identité du signataire de la télédéclaration et du télépaiement.
+
+**4. Suspension et retrait de l'adhésion :**
+
+*   La direction générale des impôts peut suspendre l'utilisation des e-services ""Simpl"" pour un contribuable non soumis à l'obligation de télédéclaration et de télépaiement, mais ayant adhéré par option, en cas d'irrégularité.
+*   Le contribuable peut demander son retrait définitif de l'utilisation des e-services ""Simpl"" à tout moment s'il n'est pas soumis à l'obligation de télédéclaration et de télépaiement.
+*   La direction générale des impôts peut retirer l'utilisation des e-services ""Simpl"" à un adhérent non soumis à l'obligation de télédéclaration et de télépaiement, en cas de non-demande de rétablissement du service après une suspension ou en cas de suspensions répétées.
+*   Un utilisateur n'a plus accès aux services après une demande de suspension ou de radiation de la part du contribuable, ou après l'arrêt ou la suspension de l'adhésion.
+*   Après l'arrêt définitif de l'adhésion, la direction générale des impôts annule les certificats des utilisateurs concernés, émis par elle.
+
+**En résumé, pour adhérer aux e-services ""Simpl"", le contribuable doit soumettre une demande, soit sur un formulaire papier, soit en ligne via le service ""Simpl"". Une fois l'adhésion validée, il recevra des codes d'accès et éventuellement un certificat électronique pour sécuriser ses transactions.**
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+Quelles sont les conditions pour qu'un télépaiement soit considéré comme effectif par la direction générale des impôts ?,"Selon l'annexe de l'arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014), un télépaiement est considéré comme effectif par la direction générale des impôts si les conditions suivantes sont remplies :
+
+1.  **Prélèvement sur le compte bancaire désigné :** Le télépaiement doit être matérialisé par un prélèvement sur l'un des comptes bancaires du contribuable, préalablement communiqués à la direction générale des impôts, au profit du compte du Trésor ouvert auprès de Bank Al-Maghrib.
+2.  **Ordre de prélèvement électronique :** Le contribuable doit donner un ordre de prélèvement signé par voie électronique pour chaque opération de télépaiement.
+3.  **Réception de l'avis de crédit :** La direction générale des impôts doit avoir reçu un avis de crédit du compte du Trésor.
+
+Il est important de noter que, bien que le paiement ne soit considéré comme effectif qu'à la réception de l'avis de crédit, pour le calcul des délais légaux, c'est la date de l'avis de prise en compte du télépaiement, transmis au contribuable par la direction générale des impôts, qui est prise en compte.
+
+En résumé, le télépaiement est effectif lorsque le prélèvement a été effectué sur le compte du contribuable, que l'ordre de prélèvement a été donné électroniquement et que la direction générale des impôts a reçu la confirmation du crédit sur le compte du Trésor.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+"Quelles sont les responsabilités d'un contribuable en matière de sécurité lors de l'utilisation des e-services ""Simpl"" ?","D'après l'annexe de l'arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014), voici les responsabilités d'un contribuable en matière de sécurité lors de l'utilisation des e-services ""Simpl"" :
+
+1.  **Respect des règles d'utilisation:** L'adhérent doit respecter les règles d'utilisation des e-services ""Simpl"" et prendre les mesures nécessaires pour éviter toute utilisation non autorisée de ces services.
+
+2.  **Avis en cas de compromission des données:** L'adhérent doit informer la direction générale des impôts s'il apprend que les données relatives à la création de la signature électronique ont été compromises ou pourraient l'être.
+
+3.  **Vérification des informations du certificat électronique:** L'adhérent doit s'assurer que les informations figurant dans le certificat électronique sont exactes et complètes.
+
+4.  **Information des modifications:** L'adhérent doit informer la direction générale des impôts sans délai de toute modification relative aux informations contenues dans le certificat électronique.
+
+5.  **Information sur les éléments affectant la sécurité:** De manière générale, l'adhérent doit informer la direction générale des impôts de tout élément pouvant affecter la sécurité de la transmission des télédéclarations et des télépaiements.
+
+En résumé, le contribuable est responsable de la sécurité de son accès aux e-services ""Simpl"" et doit informer la direction générale des impôts de tout problème ou changement pouvant compromettre cette sécurité.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+"Dans quelles situations la direction générale des impôts peut-elle suspendre l'utilisation des e-services ""Simpl"" pour un contribuable non soumis à l'obligation de télédéclaration ?","Selon l'annexe de l'arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014), la direction générale des impôts peut suspendre l'utilisation des e-services ""Simpl"" pour un contribuable non soumis à l'obligation de télédéclaration et de télépaiement, mais ayant adhéré par option, dans les situations suivantes :
+
+1.  **En cas d'irrégularité dans l'utilisation des e-services ""Simpl"" :** Si la direction générale des impôts constate une irrégularité dans l'utilisation des services par le contribuable, elle peut suspendre l'accès. Dans ce cas, elle doit informer l'adhérent de la suspension, de la cause de cette suspension et l'aviser de l'arrêt éventuel de l'utilisation des e-services ""Simpl"" s'il ne manifeste pas son souhait de rétablissement du service dans un délai maximum de six (6) mois.
+
+2.  **En cas de non-manifestation de souhait de rétablissement du service :** Si le contribuable ne manifeste pas son souhait de rétablissement du service dans un délai de six (6) mois à compter de la date de notification de la suspension, la direction générale des impôts peut retirer définitivement l'accès aux e-services ""Simpl"".
+
+3.  **En cas de suspensions répétées :** La direction générale des impôts peut également retirer l'utilisation des e-services ""Simpl"" en cas de suspensions répétées, même si le contribuable a manifesté son souhait de rétablissement du service après chaque suspension.
+
+En résumé, la suspension est généralement liée à une utilisation anormale ou à un manque de réaction du contribuable suite à une suspension initiale.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+"Quels sont les rôles spécifiques attribués aux utilisateurs des e-services ""Simpl"" et quelles sont leurs habilitations respectives ?","Selon l'annexe de l'arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014), les utilisateurs des e-services ""Simpl"" peuvent avoir un ou plusieurs rôles, chacun avec des habilitations spécifiques :
+
+*   **Le rôle ""responsable de la déclaration"" :** Ce rôle est le seul habilité à signer et déposer une télédéclaration qui n'implique pas de télépaiement concomitant. En d'autres termes, cette personne peut soumettre une déclaration en ligne, mais ne peut pas effectuer le paiement en même temps.
+
+*   **Le rôle ""responsable de paiement"" :** Ce rôle est le seul habilité à signer et déposer un télépaiement ou une télédéclaration qui intègre un éventuel télépaiement concomitant. Cette personne peut donc effectuer des paiements en ligne et peut également soumettre une déclaration en ligne si celle-ci est liée à un paiement.
+
+En résumé, les rôles sont conçus pour séparer les responsabilités de déclaration et de paiement, permettant ainsi un contrôle plus précis des opérations effectuées via les e-services ""Simpl"".
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+Comment la direction générale des impôts assure-t-elle la validité et la sécurité des télédéclarations et télépaiements effectués par voie électronique ?,"Voici comment la direction générale des impôts assure la validité et la sécurité des télédéclarations et télépaiements électroniques, selon le texte fourni :
+
+**1. Authentification et Signature Électronique :**
+
+*   **Certificats Électroniques :** Les contribuables utilisent des certificats électroniques pour s'identifier et signer leurs télédéclarations et télépaiements. Ces certificats peuvent être émis par un prestataire de services de certification électronique agréé ou par la direction générale des impôts elle-même.
+*   **Signature Électronique Obligatoire :** Chaque télédéclaration et télépaiement doit être signé électroniquement par le contribuable concerné, en utilisant le certificat électronique. Cela garantit l'authenticité de l'opération et l'identité du signataire.
+*   **Rôles d'Utilisateur :** Le système distingue différents rôles d'utilisateur, notamment ""responsable de la déclaration"" et ""responsable de paiement"". Seul le rôle approprié est habilité à signer et déposer une télédéclaration ou un télépaiement.
+
+**2. Processus de Télépaiement Sécurisé :**
+
+*   **RIB et Autorisation de Prélèvement :** Pour le télépaiement, le contribuable doit fournir ses relevés d'identité bancaire (RIB) et une autorisation de prélèvement signée par sa banque.
+*   **Ordre de Prélèvement Électronique :** Chaque télépaiement nécessite un ordre de prélèvement signé électroniquement par le contribuable, spécifiant le montant et le compte bancaire à débiter.
+*   **Prélèvement sur le Compte du Trésor :** Le prélèvement est effectué directement sur le compte bancaire du contribuable au profit du compte du Trésor ouvert auprès de Bank Al-Maghrib.
+*   **Confirmation de Paiement :** Le paiement n'est considéré comme effectif qu'après réception d'un avis de crédit du compte du Trésor par la direction générale des impôts.
+
+**3. Récépissés et Avis Électroniques :**
+
+*   **Preuve de Dépôt :** Les contribuables reçoivent des récépissés et avis de prise en compte de leurs télédéclarations et télépaiements, signés électroniquement par les services de la direction générale des impôts.
+*   **Date et Heure :** Ces récépissés et avis indiquent la date et l'heure de dépôt, qui font foi pour la réception des documents par la direction générale des impôts.
+
+**4. Responsabilité du Contribuable :**
+
+*   **Contenu des Déclarations :** Le contribuable est seul responsable du contenu de ses télédéclarations et télépaiements, ainsi que de toute erreur de transmission ou de manipulation.
+*   **Sécurité des Accès :** Le contribuable doit respecter les règles d'utilisation des e-services ""Simpl"" et prendre les mesures nécessaires pour éviter toute utilisation non autorisée.
+*   **Notification de Compromission :** Le contribuable doit informer la direction générale des impôts s'il a connaissance d'une compromission des données de sa signature électronique.
+*   **Mise à Jour des Informations :** Le contribuable doit s'assurer de l'exactitude des informations de son certificat électronique et informer la direction générale des impôts de toute modification.
+
+**5. Archivage et Contrôle :**
+
+*   **Archivage des Documents :** La direction générale des impôts archive les télédéclarations et télépaiements signés électroniquement, ainsi que les signatures associées, à des fins de contrôle, en cas de litige et pour la sécurité des transactions.
+
+**En résumé,** la direction générale des impôts met en œuvre un système sécurisé basé sur l'authentification par certificats électroniques, la signature électronique des transactions, des procédures de télépaiement contrôlées, la délivrance de récépissés électroniques, et la responsabilisation du contribuable. L'archivage des données permet également de garantir la traçabilité et la sécurité des opérations.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."
+Quelles sont les informations que le contribuable doit fournir à la direction générale des impôts lors de l'adhésion à la procédure de télépaiement ?,"Lors de l'adhésion à la procédure de télépaiement, le contribuable doit fournir à la direction générale des impôts les informations suivantes :
+
+1.  **Le relevé d'identité bancaire (RIB)** d'un, de deux ou de trois comptes bancaires ouverts à son nom.
+2.  **Une autorisation de prélèvement bancaire** signée par sa ou ses banques.
+
+De plus, pour chaque opération de télépaiement, le contribuable doit :
+
+*   **Déterminer le montant à payer.**
+*   **Confirmer le compte bancaire** sur lequel le prélèvement doit être effectué.
+*   **Donner un ordre de prélèvement** signé par voie électronique.
+","### Context: ---  
+**Bulletin officiel n° 6244 du 3 avril 2014**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I
+1435 (13 mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration et de télépaiement de l'impôt sur le revenu.** **Le Ministre
+de l'économie et des finances,** Vu les articles 155 et 169 du code général
+des impôts institué par l'article 5 de la loi de finances n°43-06 pour l'année
+budgétaire 2007, promulguée par le dahir n°1-06-232 du 10 hija 1427 (31
+décembre 2006), tel qu'il a été complété ; Vu la loi n°53-05 relative à
+l'échange électronique de données juridiques promulguée par le dahir n°
+1-07-129 du 19 kaada 1428 (30 novembre 2007), **Arrête** **** **Article
+premier :** Les contribuables peuvent déposer auprès de la direction générale
+des impôts, par procédé électronique, les télédéclarations et effectuer les
+télépaiements prévus en matière d'impôt sur le revenu (IR). **Article 2 :**
+Les contribuables appelés à utiliser le procédé électronique visé à l'article
+premier, doivent déposer à la direction générale des impôts, une demande
+d'adhésion au service électronique de la télédéclaration et de télépaiement et
+observer les règles d'utilisation annexées au présent arrêté. Toutefois,
+l'accès à ce procédé électronique est automatiquement accordé aux
+contribuables qui disposent déjà d'un accès aux procédés électroniques de la
+taxe sur la valeur ajoutée (TVA) et/ou de l'impôt sur les sociétés (IS).
+**Article 3 :** Le télépaiement doit être effectué auprès de l'un des
+établissements bancaires ayant conclu une convention à cet effet avec la
+direction générale des impôts. **** **Article 4 :** Pour l'utilisation du
+service électronique de télédéclaration et de télépaiement de l'impôt sur le
+revenu (IR), les contribuables concernés peuvent employer les certificats
+électroniques émis par un prestataire de services de certification
+électronique agréé conformément à la loi n°53-05 susvisée ou, s'ils en
+disposent, ceux antérieurement émis par la direction générale des impôts.
+**Article 5 :** La télédéclaration et le télépaiement doivent comporter la
+signature électronique du contribuable concerné, produite par le procédé
+électronique instauré par la direction générale des impôts, en utilisant le
+certificat électronique visé à l'article 4 ci-dessus. **Article 6 :** Les
+contribuables concernés reçoivent des récépissés et avis de prise en compte de
+la télédéclaration et de télépaiement, signés par voie électronique par les
+services relevant de la direction générale des impôts. Ces récépissés et avis
+doivent comporter la date et l'heure de dépôt de la télédéclaration et de
+télépaiement. Les télédéclarations et les télépaiements sont réputés reçus par
+la direction générale des impôts à la date et à l'heure figurant sur les
+récépissés et avis visés au premier alinéa ci-dessus. **Article 7 :** Les
+contribuables concernés doivent effectuer leurs télédéclarations et leurs
+télépaiements dans les délais prévus par le code général des impôts. **Article
+8 :** Lorsque pour quelque cause que ce soit, l'accès aux services
+électroniques de télédéclaration et de télépaiement est interrompu, les
+contribuables concernés doivent s'acquitter de leurs obligations fiscales par
+les moyens habituels. **Article 9 :** Sont abrogés l'arrêté du ministre de
+l'économie et des finances n° 695-11 du 17 rabii II 1432 (22 mars 2011) fixant
+les conditions de mise en œuvre d'une procédure de télédéclaration de l'impôt
+sur le revenu et l'arrêté du ministre de l'économie et des finances n° 2481-12
+du 8 chaabane 1433 (28 juin 2012) fixant les conditions de mise en œuvre d'une
+procédure de télépaiement de l'impôt sur le revenu. **Article 10 :** Le
+présent arrêté sera publié au Bulletin officiel.  _Rabat, le 11 joumada I 1435
+(13 mars 2014)._ **Mohammed Boussaid.** ***** *** *** **Annexe** **de l'arrêté
+du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13
+mars 2014) fixant les conditions de mise en œuvre d'une procédure de
+télédéclaration de l'impôt sur le revenu** **** **Règles d'utilisation des
+services électroniques de télédéclaration et de télépaiement de l'impôt sur le
+revenu** **1\. Définition** **** Les services électroniques de télédéclaration
+et de télépaiement des impôts et taxes, fournis par la direction générale des
+impôts, sont dénommés e-services « Simpl » Ils permettent aux contribuables
+concernés d'effectuer les déclarations et les paiements des impôts et taxes
+par voie électronique, à travers les deux modes de transmission des
+télédéclarations et/ou des télépaiements suivants : \- échange de formulaires
+informatisé (EFI) ;  \- échange de données informatisé (EDI). Les e-services «
+Simpl » sont accessibles aux personnes physiques agissant pour leur propre
+compte ou le compte des personnes physiques ou morales qu'elles représentent.
+Toutefois, le contribuable concerné demeure seul responsable des contenus des
+télédéclarations et des télépaiements effectués, ainsi que de toute erreur de
+transmission ou de manipulation de sa part ou de la part de la personne le
+représentant ou mandatée par lui à cet effet. Un utilisateur des e-services «
+Simpl » possède un ou plusieurs rôles fixant les habilitations ci-après : \-
+le rôle « responsable de la déclaration » est le seul rôle habilité à signer
+et déposer une télédéclaration ne faisant pas intervenir de télépaiement
+concomitant ; \- le rôle « responsable de paiement » est le seul rôle habilité
+à signer et déposer un télépaiement ou une télédéclaration qui intègre un
+éventuel télépaiement concomitant. **2\. De l'adhésion** **** La demande
+d'adhésion aux e-services « Simpl » est présentée par le contribuable sur ou
+d'après un imprimé établi par la direction générale des impôts ou par voie
+électronique à travers le « Simpl ». Cette adhésion est d'une durée
+indéterminée. Elle est matérialisée par la délivrance, par la direction
+générale des impôts, des codes d'accès et le cas échéant d'un certificat
+électronique propre à l'adhérent et permettant de s'assurer de l'identité du
+signataire de la télédéclaration et de télépaiement.  La direction générale
+des impôts peut suspendre l'utilisation des e-services « Simpl » pour un
+contribuable non soumis à l'obligation de télédéclaration et de télépaiement
+mais ayant adhéré par option, si elle constate une irrégularité dans son
+utilisation, Dans ce cas, la direction générale des impôts informe l'adhérent
+de cette suspension et de la cause l'ayant motivée et l'avise de l'arrêt
+éventuel de l'utilisation des e-services « Simpl » s'il ne manifeste pas son
+souhait de rétablissement du service dans un délai maximum de six (6) mois, à
+compter de la date où cette suspension lui a été notifiée. L'adhérent non
+soumis à l'obligation de télédéclaration et de télépaiement mais ayant adhéré
+par option, peut demander son retrait définitif de l'utilisation des
+e-services « Simpl » à n'importe moment. La direction générale des impôts peut
+retirer l'utilisation des e-services « Simpl » à un adhérent non soumis à
+l'obligation de télédéclaration et de télépaiement mais ayant adhéré par
+option s'il n'y a pas eu de demande de rétablissement du service par
+l'adhérent dans un délai de six (6) mois à compter de la date de ladite
+suspension ou en cas de suspensions répétées. Un utilisateur des e-services «
+Simpl » n'a plus accès à ces services après :  \- demande de suspension ou de
+radiation de l'utilisateur de la part du contribuable concerné  \- arrêt ou
+suspension de l'adhésion. Après l'arrêt définitif de l'adhésion, la direction
+générale des impôts annule les certificats des utilisateurs concernés, émis
+par elle. **3\. Dispositions spécifiques au télépaiement :** **** Le
+contribuable ayant adhéré à la procédure de télépaiement doit fournir à la
+direction générale des impôts le relevé d'identité bancaire (RIB) d'un, de
+deux ou de trois comptes bancaires ouverts en son nom. Il fournit, en même
+temps, à cette direction une autorisation de prélèvement bancaire signée par
+sa (ses) banque (s). Il détermine, pour chaque opération de télépaiement, le
+montant à payer et confirme le compte bancaire sur lequel le prélèvement doit
+être effectué. Il donne à cet effet un ordre de prélèvement signé par voie
+électronique. Le télépaiement est matérialisé par un prélèvement sur l'un des
+comptes bancaires susvisés au profit du compte du Trésor, ouvert auprès de
+Bank Al-Maghrib. La direction générale des impôts ne procède à aucune
+opération de prélèvement non ordonnée par l'adhérent. L'adhérent doit
+s'assurer de la validité du compte bancaire qu'il a désigné et de sa
+provision. Le paiement ne sera considéré comme effectif que si un avis de
+crédit du compte du Trésor a été reçu par la direction générale des impôts.
+Toutefois, pour la computation des délais légaux, est prise en compte la date
+de l'avis de prise en compte du télépaiement, transmis au contribuable par la
+direction générale des impôts. **4\. Règles de sécurité** **** L'adhérent est
+tenu de respecter les règles d'utilisation des e-services « Simpl » et prendre
+les dispositions nécessaires pour éviter toute utilisation non autorisée
+desdits e-services. L'adhérent doit, en outre, aviser la direction générale
+des impôts, s'il prend connaissance que les données afférentes à la création
+de la signature électronique ont été compromises ou pourront être compromises.
+L'adhérent doit également : \- s'assurer que les informations figurant dans le
+certificat électronique, sont exactes et complètes ; \- tenir la direction
+générale des impôts, sans délai, informée de toute modification relative à ces
+informations. D'une manière générale, l'adhérent doit informer la direction
+générale des impôts de tout élément pouvant affecter la sécurité de
+transmission des télédéclarations et des télépaiements. La direction générale
+des impôts procède à l'archivage des télédéclarations et de télépaiements
+signées par voie électronique qu'elle reçoit, ainsi que des signatures qui
+leurs sont associées, pour les besoins de contrôle, en cas de litige et pour
+la sécurité des télédéclarations et des télépaiements transmis. _____ _Le
+texte en langue arabe a été publié dans l'édition générale du « Bulletin
+officiel » n° 6242 du 25 joumada I 1435 (27 mars 2014)._
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/8237.html type: Arrêté date_publication: 2014-03-13 title: Arrêté du ministre de l'économie et des finances n° 696-14 du 11 joumada I 1435 (13 mars 2014) fixant les conditions de mise en oeuvre d'une procédure de télédéclaration et de télépaiement de l'impôt sur le revenu."

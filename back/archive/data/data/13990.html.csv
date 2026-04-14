@@ -1,0 +1,1225 @@
+Question,Answer,Context
+"Quel est le signal d'alarme radiotéléphonique spécifié par cet arrêté, et quelles sont les tolérances admises pour ses caractéristiques ?","Le signal d'alarme radiotéléphonique est composé de deux signaux élémentaires à basse fréquence, sensiblement sinusoïdaux, transmis alternativement :
+
+* **Fréquence 1 :** 2200 cycles par seconde (c/s)
+* **Fréquence 2 :** 1300 c/s
+
+Chaque signal élémentaire est émis pendant une durée de 250 millisecondes.
+
+Les tolérances admises sont les suivantes :
+
+* **Fréquence :** ± 1,5 % pour chacune des deux fréquences.
+* **Durée du signal élémentaire :** ± 50 millisecondes.
+* **Intervalle entre les signaux élémentaires :** Maximum 50 millisecondes.
+* **Rapport d'amplitude :** Le rapport entre l'amplitude du signal le plus fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+"Comment l'adaptation du transmetteur à l'émetteur radiotéléphonique doit-elle être assurée, selon les deux voies possibles (électrique et acoustique) ?","L'adaptation du transmetteur automatique d'alarme à l'émetteur radiotéléphonique doit être assurée de deux manières :
+
+**Voie électrique :**  La mise en marche du transmetteur et sa substitution au microphone doivent être aussi simples que possible.  Un contrôle efficace du bon fonctionnement du transmetteur doit être possible à tout instant.
+
+**Voie acoustique :** Le microphone doit pouvoir être assujetti dans une position bien déterminée par rapport à la source sonore, de manière à protéger le microphone des bruits ambiants.  Si le commutateur de commande de l'onde porteuse est placé sur le microphone, il doit être bloqué en position de fonctionnement.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+"Quelles sont les sources d'énergie autorisées pour le fonctionnement du transmetteur automatique d'alarme, et quelles sont les exigences en termes de durée de fonctionnement ?","L'article 4 de l'arrêté précise les sources d'énergie autorisées pour le transmetteur automatique d'alarme.
+
+* **Source électrique :**  Si le transmetteur utilise une source électrique, celle-ci doit être la même que celle alimentant l'émetteur radio.
+
+* **Source non électrique :** Si le transmetteur utilise une source non électrique, elle doit être autonome et située à la partie supérieure du navire.  L'appareil doit pouvoir fonctionner pendant trois heures consécutives.  Une intervention de l'opérateur peut être nécessaire pour démarrer la source d'énergie, mais chaque intervention doit permettre un fonctionnement continu de l'appareil pendant au moins trente minutes.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+"Décrivez les essais d'homologation auxquels les transmetteurs doivent être soumis, et quelles sont les vérifications à effectuer pour chaque essai ?","Les transmetteurs automatiques d'alarme doivent subir trois séries d'essais d'homologation :
+
+**Essai n°1 (vibrations):** L'appareil en fonctionnement est soumis pendant dix minutes à des vibrations rectilignes d'amplitude de ± 0,5 mm, dont la fréquence varie de 2 à 25 pulsations par seconde (pps).  Cet essai est répété sur trois axes, l'appareil restant dans sa position d'utilisation normale.  La vérification consiste à s'assurer qu'aucune résonance mécanique nuisible n'apparaît pendant l'essai.
+
+**Essai n°2 (température et tension):** L'appareil, au repos à la température ambiante, est mis en fonctionnement pour transmettre le signal pendant une minute.  Cet essai est répété pour différentes températures ambiantes comprises entre 5°C et 45°C.  Dans le cas d'appareils électriques, l'essai est également réalisé pour différentes tensions d'alimentation ne s'écartant pas de plus de 10% de la tension normale.  La vérification porte sur le respect des tolérances définies à l'article 2 (concernant les fréquences, les durées et les amplitudes des signaux) avant, pendant et après l'essai.  De plus, la tension délivrée à l'entrée du modulateur (directement ou via le microphone) doit rester dans une fourchette de ± 10% de sa valeur normale.
+
+**Essai n°3 (fonctionnement prolongé):** L'appareil est soumis à un essai de fonctionnement continu de 6 heures, avec des températures ambiantes et des tensions d'alimentation quelconques, dans les limites définies pour l'essai précédent.  La vérification porte sur le respect des tolérances définies à l'article 2 (fréquences, durées, amplitudes) tout au long de l'essai.  La tension délivrée à l'entrée du modulateur doit également rester dans la fourchette de ± 10% de sa valeur normale.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+Quel est le rôle de la notice d'emploi et comment doit-elle être complétée lors de l'installation à bord ?,"La notice d'emploi précise les modalités de mise en œuvre de l'appareil transmetteur automatique d'alarme.  Lors de son installation à bord, elle doit compléter la plaquette de l'émetteur concernant la procédure à suivre en cas de détresse, en y ajoutant les instructions pour la transmission du signal d'alarme.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+"Quelles sont les implications de cet arrêté pour les navires chérifiens de commerce, de pêche et de plaisance ?","Cet arrêté du 24 janvier 1957 fixe les conditions techniques que doivent respecter les transmetteurs automatiques d'alarme radiotéléphonique à bord des navires chérifiens de commerce, de pêche et de plaisance.  Il précise les caractéristiques du signal d'alarme, les exigences de l'adaptation du transmetteur à l'émetteur radiotéléphonique, les sources d'énergie autorisées, et les procédures d'essais d'homologation.  En résumé, l'arrêté impose des normes techniques strictes pour la sécurité des communications en cas d'urgence, rendant ainsi les navires plus aptes à signaler des situations de détresse.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+Comment l'arrêté du 24 janvier 1957 s'articule-t-il avec les arrêtés précédents concernant les radiocommunications maritimes ?,"L'arrêté du 24 janvier 1957, relatif aux transmetteurs automatiques d'alarme radiotéléphonique, s'articule avec les arrêtés précédents en se basant sur plusieurs textes antérieurs.  Il prend en compte l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) concernant le régime des radiocommunications à bord des navires chérifiens.  Il se réfère également à l'arrêté directorial du 1er juillet 1955 fixant les conditions techniques pour les installations de radiocommunications sur les navires de commerce, de pêche et de plaisance, qu'elles soient obligatoires ou non.  En somme, l'arrêté de 1957 précise et complète les réglementations existantes en matière de radiocommunications maritimes, en se focalisant spécifiquement sur les transmetteurs d'alarme.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+Quel était le signal d'alarme radiotéléphonique spécifié par l'arrêté et quelles étaient les tolérances autorisées pour sa transmission ?,"Le signal d'alarme radiotéléphonique était composé de deux signaux élémentaires à basse fréquence, sensiblement sinusoïdaux, transmis alternativement :
+
+* **Fréquence 1 : 2200 cycles par seconde (c/s)**
+* **Fréquence 2 : 1300 c/s**
+
+Chaque signal élémentaire était émis pendant 250 millisecondes.
+
+Les tolérances autorisées étaient les suivantes :
+
+* **Fréquence :** ± 1,5 % pour chacune des deux fréquences.
+* **Durée du signal élémentaire :** ± 50 millisecondes.
+* **Intervalle entre les signaux élémentaires :** maximum 50 millisecondes.
+* **Rapport d'amplitude des signaux :** entre 1 et 1,2.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+"Comment l'adaptation du transmetteur à l'émetteur radiotéléphonique était-elle assurée, que ce soit par voie électrique ou acoustique, selon l'arrêté ?","L'arrêté du 24 janvier 1957 précise que l'adaptation du transmetteur automatique d'alarme à l'émetteur radiotéléphonique devait permettre la modulation de l'onde porteuse au taux de 70 % par le plus faible des deux signaux élémentaires.
+
+**Par voie électrique :** la mise en marche du transmetteur et sa substitution au microphone devaient être aussi simples que possible, avec un contrôle efficace du bon fonctionnement à tout instant.
+
+**Par voie acoustique :** le microphone devait pouvoir être positionné de manière précise par rapport à la source sonore pour éviter les bruits ambiants.  Le commutateur de commande de l'onde porteuse, s'il était sur le microphone, devait être bloqué en position de fonctionnement.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+Quelles étaient les sources d'énergie autorisées pour le fonctionnement du transmetteur automatique d'alarme et quelles étaient les exigences de durée de fonctionnement ?,"L'arrêté du 24 janvier 1957 spécifie deux types de sources d'énergie possibles pour le transmetteur automatique d'alarme :
+
+* **Électrique:**  La source d'énergie électrique doit être celle alimentant l'émetteur radio.
+
+* **Non électrique:** La source d'énergie non électrique doit être autonome et située à la partie supérieure du navire.  Elle doit permettre un fonctionnement continu de l'appareil pendant au moins trois heures.  Une intervention de l'opérateur, permettant un fonctionnement continu de trente minutes, est acceptée comme alternative.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+"Décrivez les essais d'homologation prescrits pour les transmetteurs automatiques d'alarme, incluant les conditions de température, de vibration et de fonctionnement prolongé.","Les essais d'homologation des transmetteurs automatiques d'alarme, selon l'arrêté du 24 janvier 1957, comportent plusieurs phases :
+
+**1. Essai de vibration (essai n°1) :** L'appareil en fonctionnement est soumis pendant dix minutes à des vibrations rectilignes d'amplitude de ± 0,5 mm, dont la fréquence varie de 2 à 25 pulsations par seconde (pps).  Cet essai est répété trois fois selon trois axes, l'appareil restant dans sa position d'utilisation normale.  L'objectif est de vérifier l'absence de résonance mécanique nuisible.
+
+**2. Essai de fonctionnement à différentes températures (essai n°2) :** L'appareil, au repos à la température ambiante, est mis en fonctionnement pour transmettre le signal pendant une minute.  Cet essai est répété pour différentes températures ambiantes comprises entre 5°C et 45°C.  Dans le cas d'appareils électriques, l'essai est également réalisé pour différentes tensions d'alimentation, ne s'écartant pas de plus de 10% de la tension normale.
+
+**3. Essai de fonctionnement prolongé (essai n°3) :** L'appareil est soumis à un essai de fonctionnement continu de 6 heures.  La température ambiante et la tension d'alimentation (si applicable) peuvent varier dans les limites définies pour l'essai précédent.
+
+**Conditions générales :**
+
+* **Respect des tolérances:**  Pendant tous les essais, les tolérances sur les fréquences, la durée des signaux et l'intervalle entre eux (définies à l'article 2) doivent être respectées.
+* **Contrôle de la tension de sortie:** La tension délivrée à l'entrée du modulateur, que ce soit directement ou via le microphone, ne doit pas s'écarter de plus de ± 10 % de sa valeur normale pendant les essais.
+
+
+En résumé, les essais d'homologation visent à garantir la robustesse mécanique, la fiabilité fonctionnelle et la stabilité des transmetteurs automatiques d'alarme dans des conditions de température et de vibration variées, ainsi que lors d'un fonctionnement prolongé.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+"Quels étaient les critères de réussite pour les essais d'homologation, en termes de tolérances, de résonances et de tension délivrée au modulateur ?","Pour réussir les essais d'homologation, les transmetteurs automatiques d'alarme devaient respecter les tolérances définies à l'article 2, paragraphe B.  Cela incluait :
+
+* **Fréquences:**  une tolérance de ± 1,5 % pour les fréquences de 2200 Hz et 1300 Hz.
+* **Durées des signaux:** une tolérance de ± 50 millisecondes pour la durée de chaque signal élémentaire.
+* **Intervalle entre les signaux:** l'intervalle entre les signaux élémentaires successifs ne devait pas dépasser 50 millisecondes.
+* **Rapport d'amplitude:** le rapport entre l'amplitude du signal le plus fort et l'amplitude de l'autre signal devait être compris entre 1 et 1,2.
+
+De plus, il était crucial que :
+
+* **Absence de résonance:** aucun phénomène de résonance mécanique nuisible ne devait apparaître lors des essais de vibrations (essai n°1).
+* **Stabilité des tolérances:** les tolérances définies à l'article 2 devaient être respectées avant l'essai n°1 et à tout moment pendant les essais n°2 et n°3.
+* **Tension au modulateur:** la tension délivrée à l'entrée du modulateur, que ce soit directement ou via le microphone, ne devait pas s'écarter de plus de ± 10 % de sa valeur normale pendant les essais.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+Quel était le rôle de la notice d'emploi et comment l'installation à bord du transmetteur était-elle complétée par rapport aux procédures de détresse existantes ?,"La notice d'emploi devait préciser les modalités de mise en œuvre de l'appareil transmetteur automatique d'alarme.  Elle accompagnait tout appareil soumis aux essais d'homologation.  Lors de l'installation à bord, la plaquette de l'émetteur radio, concernant la procédure à suivre en cas de détresse, devait être complétée par les instructions spécifiques à la transmission du signal d'alarme émis par le nouveau transmetteur.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."
+Quel était le contexte réglementaire plus large qui a motivé l'arrêté de 1957 concernant les transmetteurs d'alarme radiotéléphonique ?,"L'arrêté de 1957 fixant les conditions techniques des transmetteurs automatiques d'alarme radiotéléphonique s'inscrit dans un cadre réglementaire plus large concernant les radiocommunications maritimes.  Il se base sur :
+
+* **L'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des radiocommunications à bord des navires chérifiens de commerce, de pêche et de plaisance :**  Ce document précédent établit un cadre général pour les radiocommunications sur les navires.
+* **L'arrêté directorial du 1er juillet 1955 fixant les conditions techniques auxquelles doivent satisfaire les installations de radiocommunications, obligatoires ou non, à bord des navires de commerce, de pêche ou de plaisance :**  Cet arrêté plus récent précise les exigences techniques pour les installations radio, incluant celles qui ne sont pas obligatoires.
+
+En résumé, l'arrêté de 1957 est une spécification plus détaillée des exigences techniques pour un type particulier d'équipement radio (les transmetteurs d'alarme) dans le contexte d'un encadrement réglementaire plus général des radiocommunications maritimes.
+","### Context: ---  
+**Bulletin officiel n° 2313 du 22 février 1957**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre des postes, des télégraphes et des téléphones du 24
+janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire
+les transmetteurs automatiques d'alarme radiotéléphonique.** **** **Le
+Ministre des postes, des télégraphes et des téléphones,** Vu l'article 14 de
+l'arrêté viziriel du 22 hija 1371 (13 septembre 1952) relatif au régime des
+radiocommunications à bord des navires chérifiens de commerce, de pêche et de
+plaisance ;  Vu l'arrêté directorial du 1er juillet 1955 fixant les conditions
+techniques auxquelles doivent satisfaire les installations de
+radiocommunications, obligatoires ou non, à bord des navires de commerce, de
+pêche ou de plaisance ;  Après avis du sous-secrétaire d'Etat au commerce et à
+l'industrie (division de la marine marchande et des pêches maritimes),
+**Arrête :** **** **Article** **Premier :** Transmetteur automatique d'alarme.
+Le transmetteur automatique d'alarme est un appareil destiné à permettre
+l'émission sur la fréquence de détresse radiotéléphonique (2182 kc/s) du
+signal d'alarme ci-après.  **** **Article 2 :** Signal d'alarme
+radiotéléphonique.  **A. - Définitions.** Le signal d'alarme radiotéléphonique
+est composé de deux signaux élémentaires à basse fréquence sensiblement
+sinusoïdaux, transmis alternativement :  fréquence 2200 c/s pour le premier ;
+fréquence 1300 c/s pour le second :  Chaque signal élémentaire est émis
+pendant une durée de 250 millisecondes.  **** **B. - Tolérance.** La tolérance
+sur chacune des deux fréquences est égale à _+_ 1,5 pour 100.  La tolérance
+sur la durée de chaque signal élémentaire est égale à ± 50 millisecondes et
+l'intervalle entre deux signaux élémentaires successifs ne doit pas dépasser
+50 millisecondes.  Le rapport entre l'amplitude du signal élémentaire le plus
+fort et l'amplitude de l'autre signal doit être compris entre 1 et 1,2.  ****
+**Article 3 :** Adaptation du transmetteur a l'émetteur radiotéléphonique.  Le
+transmetteur automatique d'alarme doit permettre, dans les conditions normales
+de température et d'alimentation, la modulation de l'onde porteuse au taux de
+70 % par le plus faible des deux signaux élémentaires :  soit par voie
+électrique ;  soit par voie acoustique.  A. - Dans le premier cas (voie
+électrique), la mise en marche du transmetteur et sa substitution au
+microphone doivent être assurées de façon aussi simple que possible.  Un
+contrôle efficace du bon fonctionnement du transmetteur doit être possible à
+tout instant.  B. - Dans le deuxième cas (voie acoustique), le microphone doit
+pouvoir être assujetti dans une position bien déterminée par rapport à la
+source sonore de telle façon que :  le microphone soit protégé de bruits
+ambiants ;  le commutateur de commande de l'onde porteuse, s'il est placé sur
+le microphone, se trouve bloqué en position de fonctionnement. **Article 4 :**
+Sources d'énergie du transmetteur.  A. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie électrique, celle-ci ne peut être
+que la source alimentant l'émetteur  B. - Si le transmetteur fait appel pour
+son fonctionnement à une source d'énergie non électrique, celle-ci doit être
+autonome et située à la partie supérieure du navire. L'appareil doit pouvoir
+fonctionner pendant trois heures consécutives ; il est admis, toutefois, que
+la mise en œuvre de la source d'énergie soit subordonnée à une intervention
+simple de l'opérateur ; dans ce cas, chaque intervention doit permettre un
+fonctionnement continu de l'appareil pendant au moins trente minutes.  ****
+**Article 5 :** Essais d'homologation.  A. - Description.  1° l'appareil en
+fonctionnement est soumis pendant dix minutes à des vibrations rectilignes
+d'amplitude + 0,5 mm, dont la fréquence varie lentement de façon continue
+entre 2 et 25 pps. Cet essai est repris trois fois selon trois axes,
+l'appareil restant dans sa position d'utilisation en service normal ;  2°
+l'appareil étant au repos à la température ambiante est mis en fonctionnement
+de manière qu'il transmette le signal pendant une minute.  Cet essai est
+repris pour diverses températures ambiantes comprises entre 5° et 45° C et,
+dans le cas d'appareils utilisant une source d'énergie électrique, pour
+diverses tensions d'alimentation ne s'écartant pas de plus de 10 % de la
+tension normale ;  3° l'appareil est soumis à un essai de fonctionnement de 6
+heures consécutives au cours duquel la température ambiante et,
+éventuellement, la tension d'alimentation sont quelconques dans les limites
+précisées pour l'essai précédent.  B. - Résultats.  On doit vérifier que :  a)
+aucune résonance mécanique nuisible n'apparaît dans l'appareil au cours de
+l'essai n° 1 ;  b) les tolérances définies à l'article 2 (paragr. B) sont
+respectées :  avant l'essai n° 1 ; à tout instant au cours des essais n° 2 et
+3.  On doit vérifier en outre que, dans les mêmes conditions, la tension
+délivrée à l'entrée du modulateur, soit directement, soit par l'intermédiaire
+du microphone, ne s'écarte pas de ± 10 % de sa valeur normale.  **** **Article
+6 :** Notice d'emploi et installation à bord.  Tout appareil présenté aux
+essais d'homologation sera accompagné d'une notice précisant, en particulier,
+les modalités de mise en oeuvre.  Au moment de l'installation à bord de
+l'appareil transmetteur automatique d'alarme, la plaquette de l'émetteur qui
+concerne la procédure à suivre en cas de détresse sera complétée par les
+dispositions concernant la transmission du signal d'alarme.  _Rabat, le 24
+janvier 1957.  
+_**Dr L. Benzaquen.** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/13990.html type: Arrêté date_publication: 1957-01-24 title: Arrêté du ministre des postes, des télégraphes et des téléphones du 24 janvier 1957 fixant les conditions techniques auxquelles doivent satisfaire les transmetteurs automatiques d'alarme radiotéléphonique."

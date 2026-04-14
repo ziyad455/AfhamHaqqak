@@ -1,0 +1,1400 @@
+Question,Answer,Context
+ما هي المتطلبات الدنيا لأجهزة النيجاتوسكوب المستخدمة في التصوير الإشعاعي الصناعي وفقًا للمعايير المعتمدة؟,"وفقًا للمرسوم رقم 386-03 الصادر في 19 من ذي الحجة 1423 (21 فبراير 2003) والمنشور في الجريدة الرسمية رقم 5092 بتاريخ 20 مارس 2003، فإن المعيار المغربي المعتمد **NM ISO 5580** يحدد المتطلبات الدنيا لأجهزة النيجاتوسكوب المستخدمة في التصوير الإشعاعي الصناعي. هذا المعيار يندرج تحت عنوان ""اختبارات غير مدمرة - أجهزة النيجاتوسكوب المستخدمة في التصوير الإشعاعي الصناعي - المتطلبات الدنيا"".
+
+بمعنى آخر، إذا كنت تبحث عن المتطلبات الدنيا لأجهزة النيجاتوسكوب في التصوير الإشعاعي الصناعي في المغرب، فإن المعيار **NM ISO 5580** هو المرجع الذي يجب الرجوع إليه.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+كيف يتم تحديد حساسية وتباين أنظمة استقبال الصور القائمة على الأفلام المستخدمة في التصوير الإشعاعي الصناعي ضمن نطاق طاقة 50 كيلو فولت إلى 300 كيلو فولت؟,"يتم تحديد حساسية وتباين أنظمة استقبال الصور القائمة على الأفلام المستخدمة في التصوير الإشعاعي الصناعي ضمن نطاق طاقة 50 كيلو فولت إلى 300 كيلو فولت وفقًا للمعيار المغربي **NM 01.1.233**، الذي يحدد الإجراءات اللازمة لذلك. هذا المعيار هو جزء من مجموعة المعايير المغربية التي تم اعتمادها بموجب قرار وزير الصناعة والتجارة والاتصالات رقم 386-03 بتاريخ 21 فبراير 2003.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+ما هي المعايير المعتمدة لتحديد حساسية وتباين أنظمة استقبال الصور القائمة على الأفلام الفضية في التصوير النيوتروني الصناعي باستخدام إلكترونات ذات طاقة أقل من 200 كيلو فولت؟,"بناءً على المعلومات الواردة في الجريدة الرسمية رقم 5092 بتاريخ 20 مارس 2003، فإن المعيار المعتمد لتحديد حساسية وتباين أنظمة استقبال الصور القائمة على الأفلام الفضية في التصوير النيوتروني الصناعي باستخدام إلكترونات ذات طاقة أقل من 200 كيلو فولت هو:
+
+**NM 01.1.234:**  ""اختبارات غير مدمرة - التصوير النيوتروني الصناعي - تحديد الحساسية والتباين المتوسط لأنظمة استقبال الصور القائمة على الأفلام الفضية، باستخدام إلكترونات ذات طاقة أقل من 200 كيلو فولت.""
+
+هذا المعيار يحدد الإجراءات والمتطلبات اللازمة لتقييم جودة الصور الناتجة عن هذه التقنية، مما يضمن الحصول على نتائج دقيقة وموثوقة في التطبيقات الصناعية.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+ما هي الإجراءات المتبعة للتحقق من معالجة الأفلام المستخدمة في التصوير الإشعاعي الصناعي باستخدام قيم مرجعية؟,"وفقًا للمعلومات الواردة في الجريدة الرسمية رقم 5092 بتاريخ 20 مارس 2003، فإن الإجراءات المتبعة للتحقق من معالجة الأفلام المستخدمة في التصوير الإشعاعي الصناعي باستخدام قيم مرجعية محددة في المعيار المغربي **NM 01.1.247**، والذي يحمل عنوان: ""اختبارات غير مدمرة - فيلم للتصوير الإشعاعي الصناعي - التحكم في معالجة الأفلام باستخدام قيم مرجعية"".
+
+**ملخص الإجراءات:**
+
+*   **المرجع:** يتم الرجوع إلى المعيار المغربي NM 01.1.247 لتحديد القيم المرجعية المحددة لمعالجة الأفلام.
+*   **التحقق:** يتم إجراء اختبارات على الأفلام المعالجة ومقارنة النتائج بالقيم المرجعية المحددة في المعيار.
+*   **الهدف:** يهدف هذا الإجراء إلى ضمان جودة معالجة الأفلام المستخدمة في التصوير الإشعاعي الصناعي، وبالتالي الحصول على صور إشعاعية دقيقة وموثوقة.
+
+**ملاحظات إضافية:**
+
+*   المعيار NM 01.1.247 هو جزء من مجموعة معايير التصوير الإشعاعي الصناعي المعتمدة في المغرب.
+*   يجب على الجهات المعنية بالتصوير الإشعاعي الصناعي الالتزام بهذه المعايير لضمان جودة العمل وسلامة النتائج.
+*   يمكن الحصول على نسخة من المعيار NM 01.1.247 من وزارة الصناعة والتجارة والاتصالات، قسم التقييس الصناعي المغربي (SNIMA).
+
+باختصار، يتم التحقق من معالجة الأفلام المستخدمة في التصوير الإشعاعي الصناعي من خلال مقارنة نتائج الاختبارات على الأفلام المعالجة بالقيم المرجعية المحددة في المعيار المغربي NM 01.1.247.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+ما هي الخصائص التي يجب أن تتمتع بها مصادر الضوء فوق البنفسجية المستخدمة في اختبارات الفحص السطحي (الاختراق، المغناطيسية)؟,"وفقًا للمعلومات الواردة في الملحق الخاص بالقرار الوزاري رقم 386-03، فإن المعيار المغربي رقم NM 01.1.275 يحدد خصائص مصادر الضوء فوق البنفسجية المستخدمة في اختبارات الفحص السطحي (الاختراق، المغناطيسية).
+
+**المعيار المغربي رقم NM 01.1.275:**
+
+*   **العنوان:** اختبارات غير مدمرة - وسائل الفحص السطحي (الاختراق، المغناطيسية) - توصيف مصادر الضوء فوق البنفسجية.
+*   **المضمون:** يحدد هذا المعيار الخصائص والمتطلبات التي يجب أن تتوفر في مصادر الضوء فوق البنفسجية المستخدمة في اختبارات الفحص السطحي، مثل اختبار الاختراق واختبار الجسيمات المغناطيسية.
+
+**ملخص الخصائص الرئيسية:**
+
+على الرغم من أن النص لا يذكر تفاصيل محددة حول هذه الخصائص، إلا أن المعيار NM 01.1.275 يركز على ""توصيف"" مصادر الضوء فوق البنفسجية، مما يعني أنه يتناول جوانب مثل:
+
+*   **الطول الموجي:** يجب أن يكون الضوء فوق البنفسجي ضمن نطاق معين من الأطوال الموجية المناسبة لتحفيز المواد الفلورية المستخدمة في هذه الاختبارات.
+*   **الشدة:** يجب أن تكون شدة الضوء فوق البنفسجي كافية لإظهار العيوب بوضوح.
+*   **التوزيع:** يجب أن يكون توزيع الضوء موحدًا على سطح الفحص لضمان نتائج دقيقة.
+*   **الاستقرار:** يجب أن تكون مصادر الضوء مستقرة في شدتها وطولها الموجي مع مرور الوقت.
+*   **السلامة:** يجب أن تكون مصادر الضوء آمنة للاستخدام، مع مراعاة المخاطر المحتملة للتعرض للأشعة فوق البنفسجية.
+
+**ملاحظات هامة:**
+
+*   للحصول على التفاصيل الدقيقة حول هذه الخصائص، يجب الرجوع إلى النص الكامل للمعيار المغربي رقم NM 01.1.275.
+*   يمكن الحصول على هذا المعيار من وزارة الصناعة والتجارة والاتصالات، قسم التقييس الصناعي المغربي (SNIMA).
+
+**باختصار،** يجب أن تتميز مصادر الضوء فوق البنفسجية المستخدمة في اختبارات الفحص السطحي بخصائص محددة تتعلق بالطول الموجي، والشدة، والتوزيع، والاستقرار، والسلامة، وذلك لضمان فعالية الاختبارات ودقتها.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+ما هي المعايير المحددة التي يجب أن تلتزم بها قطع الصلب المصبوبة المستخدمة في الخدمة تحت الضغط، سواء في درجات الحرارة المحيطة أو المرتفعة أو المنخفضة؟,"بالرجوع إلى الملحق المرفق بالقرار الوزاري رقم 386-03 بتاريخ 21 فبراير 2003، فإن المعايير المحددة التي يجب أن تلتزم بها قطع الصلب المصبوبة المستخدمة في الخدمة تحت الضغط، سواء في درجات الحرارة المحيطة أو المرتفعة أو المنخفضة، هي كالتالي:
+
+*   **NM 01.4.339:** الشروط الفنية لتسليم قطع الصلب المصبوبة للخدمة تحت الضغط - **عموميات**. هذا المعيار يحدد المتطلبات العامة التي يجب أن تلتزم بها هذه القطع.
+*   **NM 01.4.340:** الشروط الفنية لتسليم قطع الصلب المصبوبة للخدمة تحت الضغط - **درجات الصلب للاستخدام في درجات الحرارة المحيطة والعالية**. هذا المعيار يحدد أنواع الصلب المحددة التي يجب استخدامها في هذه الظروف.
+*   **NM 01.4.341:** الشروط الفنية لتسليم قطع الصلب المصبوبة للخدمة تحت الضغط - **درجات الصلب للاستخدام في درجات الحرارة المنخفضة**. هذا المعيار يحدد أنواع الصلب المحددة التي يجب استخدامها في هذه الظروف.
+*   **NM 01.4.342:** الشروط الفنية لتسليم قطع الصلب المصبوبة للخدمة تحت الضغط - **درجات الصلب الأوستنيتي والأوستنيتي-الفريتي**. هذا المعيار يحدد أنواع الصلب الأوستنيتي والأوستنيتي-الفريتي التي يجب استخدامها في هذه الظروف.
+
+باختصار، هذه المعايير الأربعة تحدد بشكل شامل المتطلبات الفنية وأنواع الصلب التي يجب استخدامها في قطع الصلب المصبوبة المستخدمة في الخدمة تحت الضغط، مع الأخذ في الاعتبار ظروف التشغيل المختلفة من حيث درجات الحرارة.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+ما هي المتطلبات الأساسية لتحديد عيار وماركة المشغولات البلاتينية أو الذهبية أو الفضية وفقًا للمعايير المعتمدة؟,"وفقًا للملحق المرفق بالقرار الوزاري رقم 386-03 بتاريخ 21 فبراير 2003، فإن المعايير المغربية المعتمدة لتحديد عيار وماركة المشغولات البلاتينية أو الذهبية أو الفضية هي:
+
+*   **NM 01.4.500:**  تحدد هذه المواصفة معايير ""المشغولات البلاتينية أو الذهبية أو الفضية - العيار والعلامات"". أي أنها تحدد كيفية تحديد عيار المعدن الثمين (البلاتين، الذهب، الفضة) وكيفية وضع العلامات الدالة على ذلك.
+*   **NM 01.4.501:** تحدد هذه المواصفة طريقة ""تحديد عيار المشغولات البلاتينية أو الذهبية أو الفضية - اختبارات اللمس"". أي أنها تحدد طريقة الاختبار باللمس لتحديد عيار المعدن الثمين.
+*   **NM 01.4.502:** تحدد هذه المواصفة طريقة ""تحديد عيار المشغولات البلاتينية أو الذهبية أو الفضية - اختبارات القدح"". أي أنها تحدد طريقة الاختبار بالقدح لتحديد عيار المعدن الثمين.
+
+**باختصار، تتضمن المتطلبات الأساسية لتحديد عيار وماركة المشغولات البلاتينية أو الذهبية أو الفضية ما يلي:**
+
+1.  **تحديد العيار:** يجب تحديد عيار المعدن الثمين بدقة باستخدام إحدى الطرق المعتمدة (اللمس أو القدح).
+2.  **وضع العلامات:** يجب وضع علامات واضحة على المشغولات تدل على عيار المعدن الثمين المستخدم.
+
+**ملاحظة:** هذه المعايير تحدد الإطار العام لتحديد العيار والمواصفات، وقد تتضمن تفاصيل إضافية في النصوص الكاملة لهذه المعايير. للحصول على التفاصيل الدقيقة، يجب الرجوع إلى النصوص الكاملة لهذه المعايير المتوفرة لدى مصلحة التقييس الصناعي المغربية (SNIMA) التابعة لوزارة الصناعة والتجارة والاتصالات.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+Où peut-on consulter les normes homologuées mentionnées dans l'arrêté ?,"Selon l'article 2 de l'arrêté, les normes homologuées sont tenues à la disposition des intéressés au ministère de l'industrie, du commerce et des télécommunications, service de normalisation industrielle marocaine (SNIMA).
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+"Quelles normes marocaines ont été abrogées par cet arrêté, et quels arrêtés les contenaient ?","Selon l'arrêté du ministre de l'industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003), les normes marocaines suivantes ont été abrogées :
+
+*   **NM 15.0.003** (métrologie - La fonction métrologie dans l'entreprise), qui était contenue dans l'arrêté du ministre du commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997.
+*   **NM 08.0.002** (système de management H.A.C.C.P. - Exigences), qui était contenue dans l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28 juillet 1998.
+
+En résumé, l'arrêté de 2003 abroge des dispositions spécifiques de deux arrêtés antérieurs concernant ces deux normes précises.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+"Concernant les essais non destructifs, quelles normes spécifiques sont mentionnées pour la radiographie industrielle ?","Absolument ! Voici les normes spécifiques mentionnées dans le document pour la radiographie industrielle, classées par type d'essai ou d'application :
+
+**Principes généraux et systèmes d'imagerie :**
+
+*   **NM 01.1.227** : Essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques.
+*   **NM 01.1.233** : Essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV.
+*   **NM 01.1.235** : Radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV.
+*   **NM 01.1.236** : Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV.
+
+**Matériels et supports :**
+
+*   **NM ISO 5580** : Essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales.
+*   **NM 01.1.238** : Radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents.
+*   **NM 01.1.239** : Radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques.
+*   **NM 01.1.246** : Essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle.
+*   **NM 01.1.247** : Essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence.
+
+**En résumé, ces normes couvrent un large éventail d'aspects de la radiographie industrielle, allant des principes de base aux spécifications des équipements et des matériaux utilisés.**
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+"Quelles normes concernent les produits de fonderie, notamment les aciers moulés et les fontes ?","D'après l'annexe de l'arrêté du 19 hija 1423 (21 février 2003), les normes marocaines suivantes concernent les produits de fonderie, notamment les aciers moulés et les fontes :
+
+*   **NM 01.4.337** : produits de fonderie - Aciers moulés d'usage général en construction mécanique ;
+*   **NM 01.4.338** : produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;
+*   **NM 01.4.339** : conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;
+*   **NM 01.4.340** : conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;
+*   **NM 01.4.341** : conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;
+*   **NM 01.4.342** : conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;
+*   **NM 01.4.343** : produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;
+*   **NM 01.4.345** : fonderie - Fonte à graphite sphéroïdal.
+
+Ces normes couvrent différents aspects des produits de fonderie, allant des spécifications générales des aciers moulés à des conditions techniques de livraison pour des applications spécifiques, ainsi que des normes pour les fontes.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+"Quelles normes sont relatives à la bijouterie-joaillerie, en particulier concernant le titre et le marquage des ouvrages en métaux précieux ?","D'après l'annexe de l'arrêté du 19 hija 1423 (21 février 2003), les normes marocaines relatives à la bijouterie-joaillerie, et plus précisément au titre et au marquage des ouvrages en métaux précieux (platine, or ou argent), sont les suivantes :
+
+*   **NM 01.4.500** : bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage.
+*   **NM 01.4.501** : bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau.
+*   **NM 01.4.502** : bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation.
+
+Ces normes définissent les exigences en matière de titre (pureté du métal) et de marquage pour les ouvrages de bijouterie-joaillerie en platine, or et argent, ainsi que les méthodes d'essai pour déterminer le titre de ces ouvrages.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+"Quelles normes sont liées à la métrologie et aux instruments de mesure, comme les niveaux et les calibres ?","D'après l'annexe de l'arrêté du 19 hija 1423 (21 février 2003), les normes suivantes sont liées à la métrologie et aux instruments de mesure :
+
+*   **NM 15.1.117** : calibres en acier - Tampons lisses (série horlogère) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées.
+*   **NM 15.5.026** : tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau.
+*   **NM 15.1.099** : pipettes graduées étalons pour agents de vérification.
+*   **NM 15.1.150** : fioles jaugées à un trait en verre.
+*   **NM 15.1.144** : instruments de mesurage - Barres et plateaux sinus.
+*   **NM 15.1.142** : instruments de mesurage - Niveaux électroniques.
+*   **NM 15.1.141** : instruments de mesurage - Niveaux à bulle.
+*   **NM 15.1.143** : instruments de mesurage des angles auto-collimateurs.
+*   **NM 15.1.145** : instruments de mesurage des angles - Mesures matérialisées.
+*   **NM 15.5.037** : compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine.
+*   **NM 15.0.003** : métrologie - La fonction métrologie dans l'entreprise.
+*   **NM 15.6.017** : thermomètres électriques médicaux avec dispositif à maximum.
+
+Ces normes couvrent une variété d'instruments de mesure, allant des calibres et niveaux aux pipettes, fioles, et compteurs de gaz, ainsi que des aspects généraux de la métrologie en entreprise.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"
+"Quelles normes concernent le secteur agroalimentaire, notamment les conserves de fruits et légumes, et le système HACCP ?","Absolument ! Voici les normes mentionnées dans le document qui concernent le secteur agroalimentaire, en particulier les conserves de fruits et légumes, ainsi que le système HACCP :
+
+**Système HACCP :**
+
+*   **NM 08.0.002** :  Système de management H.A.C.C.P. - Exigences. Cette norme est spécifiquement dédiée aux exigences du système HACCP (Hazard Analysis and Critical Control Points), un système de gestion de la sécurité des aliments.
+
+**Normes relatives aux conserves en général :**
+
+*   **NM 08.0.001** : Code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides. Cette norme établit les bonnes pratiques d'hygiène pour la production de conserves peu acides.
+*   **NM 08.0.003** : Code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement. Cette norme concerne les conserves d'aliments peu acides préparées et emballées de manière aseptique.
+*   **NM 08.0.004** : Lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables. Cette norme fournit des directives pour l'inspection visuelle des conserves afin d'identifier les défauts qui les rendent impropres à la consommation.
+
+**Normes spécifiques aux conserves de fruits et légumes :**
+
+*   **NM 08.0.005** : Code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve. Cette norme établit les bonnes pratiques d'hygiène spécifiques à la production de conserves de fruits et légumes.
+*   **NM 08.2.004** : Fruits et légumes en conserve - Petits pois - Spécifications. Cette norme définit les spécifications pour les conserves de petits pois.
+*   **NM 08.2.011** : Fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté. Cette norme décrit une méthode pour déterminer le remplissage adéquat des conserves de petits pois, alternative à la mesure du poids égoutté.
+*   **NM 08.2.012** : Fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool. Cette norme décrit une méthode pour mesurer la quantité de matière insoluble dans l'alcool dans les conserves de petits pois.
+*   **NM 08.2.013** : Fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois. Cette norme décrit une méthode pour identifier la variété des pois utilisés dans les conserves.
+*   **NM 08.2.014** : Fruits et légumes en conserve - Carottes. Cette norme concerne les conserves de carottes.
+*   **NM 08.2.015** : Fruits et légumes en conserve - Maïs doux. Cette norme concerne les conserves de maïs doux.
+*   **NM 08.2.017** : Fruits et légumes en conserve - Asperges en conserve. Cette norme concerne les conserves d'asperges.
+*   **NM 08.2.019** : Fruits et légumes en conserve - Choux palmistes (cœurs de palmier). Cette norme concerne les conserves de cœurs de palmier.
+*   **NM 08.2.020** : Fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé. Cette norme décrit une méthode pour déterminer le poids égoutté lavé des conserves de champignons de couche.
+
+En résumé, ce document met en évidence un ensemble de normes qui encadrent la production de conserves, allant des exigences générales d'hygiène aux spécifications précises pour différents types de fruits et légumes, ainsi que la mise en place du système HACCP.
+","### Context: ---  
+**Bulletin Officiel n° 5092 du 20 mars 2003**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des télécommunications n°
+386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes
+marocaines.** **** **Le Ministre de l'Industrie, du Commerce et des
+Télécommunications,** Vu le dahir n° 1-70-157 du 26 joumada I 1390 (30 juillet
+1970) relatif à la normalisation industrielle en vue de la recherche de la
+qualité et de l'amélioration de la productivité, tel qu'il a été modifié par
+le dahir portant loi n° 1-93-221 du 22 rabii I 1414 (10 septembre 1993) ; Vu
+le décret n° 2-70-314 du 6 chaabane 1390 (8 octobre 1970) fixant la
+composition et les attributions des organismes chargés de la normalisation
+industrielle en vue de la recherche de la qualité et de l'amélioration de la
+productivité ; Vu l'arrêté du ministre du commerce, de l'industrie et de
+l'artisanat n° 375-97 du 5 mars 1997 portant homologation de normes marocaines
+et rendant d'application obligatoire une norme marocaine ; Vu l'arrêté du
+ministre de l'industrie, du commerce et de l'artisanat n° 1616-98 du 28
+juillet 1998 portant homologation de normes marocaines ; Vu l'avis favorable
+du conseil supérieur interministériel de la qualité et de la productivité
+(C.S.I.Q.P) réuni le 27 décembre 2002, **Arrête :** **** **Article Premier :**
+Sont homologuées comme normes marocaines, les normes annexées au présent
+arrêté. **Article 2 :** Les normes visées à l'article premier ci-dessus, sont
+tenues à la disposition des intéressés au ministère de l'industrie, du
+commerce et des télécommunications, service de normalisation industrielle
+marocaine (SNIMA). **Article 3 :** Sont abrogés : \- l'arrêté du ministre du
+commerce, de l'industrie et de l'artisanat n° 375-97 du 5 mars 1997 en ce qui
+concerne ses dispositions relatives à la norme marocaine NM 15.0.003 ; \-
+l'arrêté du ministre de l'industrie, du commerce et de l'artisanat n° 1616-98
+du 28 juillet 1998 en ce qui concerne ses dispositions relatives à la norme
+marocaine NM 08.0.002. **Article 4 :** Le présent arrêté sera publié au
+_Bulletin_ _officiel_. _Rabat, le 19 hija 1423 (21 février 2003).  
+_**Rachid Talbi El Alami.** * * * **** **Annexe** **** |  \- NM 01.1.227 |  : |  essais non destructifs - Principes généraux de l'examen radiographique à l'aide de rayons X et gamma des matériaux métalliques ;  
+---|---|---  
+\- NM ISO 5580 |  : |  essais non destructifs - Négatoscopes utilisés en radiographie industrielle - Exigences minimales ;  
+\- NM 01.1.233 |  : |  essais non destructifs - Radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films utilisés dans la gamme d'énergies 50 keV à 300 keV ;  
+\- NM 01.1.234 |  : |  neutronographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films argentiques, au moyen d'électrons d'énergie inférieure à 200 keV ;  
+\- NM 01.1.235 |  : |  radiologie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images comportant un écran renforçateur fluorescent et un papier radiographique, utilisés dans la gamme d'énergie de 30 keV à 150 keV ;  
+\- NM 01.1.236 |  : |  radiographie industrielle - Détermination de la sensibilité et du contraste moyen des systèmes récepteurs d'images à base de films radiographiques et comprenant un ou deux écrans renforçateurs dits fluorométalliques utilisés dans la gamme d'énergie de 50 keV à 1,5 MeV ;  
+\- NM 01.1.237 |  : |  neutronographie industrielle - Détermination des caractéristiques des installations pour le contrôle de pièces non radioactives ;   
+\- NM 01.1.238 |  : |  radiographie industrielle - Fiche d'identification des papiers radiographiques utilisés avec écrans renforçateurs fluorescents ;  
+\- NM 01.1.239 |  : |  radiographie industrielle - Fiche d'identification des films radiographiques utilisés avec des écrans renforçateurs fluorescents dits fluorométalliques ;  
+\- NM 01.1.246 |  : |  essais non destructifs - Film pour radiographie industrielle - Classification des systèmes films pour radiographie industrielle ;  
+\- NM 01.1.247 |  : |  essais non destructifs - Film pour radiographie industrielle - Contrôle du traitement des films au moyen de valeurs de référence ;  
+\- NM 01.1.275 |  : |  essais non destructifs - Moyens d'examens superficiels (ressuage, magnétoscopie) - Caractérisation des sources de lumière ultraviolette ;  
+\- NM 01.4.337 |  : |  produits de fonderie - Aciers moulés d'usage général en construction mécanique ;  
+\- NM 01.4.338 |  : |  produits de fonderie - Aciers et fontes blanches moulés résistant à l'usure par abrasion ;  
+\- NM 01.4.339 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Généralités ;  
+\- NM 01.4.340 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à températures ambiantes et à températures élevées ;  
+\- NM 01.4.341 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'acier pour utilisation à basses températures ;  
+\- NM 01.4.342 |  : |  conditions techniques de livraison des pièces moulées en acier pour service sous pression - Nuances d'aciers austénitiques et austéno-ferritiques ;  
+\- NM 01.4.343 |  : |  produits de fonderie - Aciers et alliages de nickel moulés pour pompes, vannes, robinetterie (enceintes et pièces internes) ;  
+\- NM 01.4.345  |  : |  fonderie - Fonte à graphite sphéroïdal ;  
+\- NM 01.4.500 |  : |  bijouterie-joaillerie - Ouvrages de platine, d'or ou d'argent - Titre et marquage ;  
+\- NM 01.4.501 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais au touchau ;  
+\- NM 01.4.502 |  : |  bijouterie-joaillerie - Détermination du titre des ouvrages de platine, d'or ou d'argent - Essais par coupellation ;  
+\- NM 04.4.100  |  : |  normalisation postale - Adressage postal ;  
+\- NM 06.0.004 |  : |  essais d'environnement \- Essais - Essai KA : brouillard salin ;  
+\- NM 06.0.007 |  : |  symboles graphiques pour schémas - Opérateurs analogiques ;   
+\- NM 15.1.117 |  : |  calibres en acier - Tampons lisses (série horlogière) - Diamètres de 0,1 mm à 3 mm - Ensemble, parties mesurantes et poignées ;   
+\- NM 15.5.026 |  : |  tubes étalons pour l'essai des ensembles de mesurage de liquides autres que l'eau ;  
+\- NM 15.6.017 |  : |  thermomètres électriques médicaux avec dispositif à maximum ;  
+\- NM 15.1.099 |  : |  pipettes graduées étalons pour agents de vérification ;   
+\- NM 15.1.150 |  : |  fioles jaugées à un trait en verre ;  
+\- NM 15.1.144 |  : |  instruments de mesurage - Barres et plateaux sinus ;   
+\- NM 15.1.142 |  : |  instruments de mesurage - Niveaux électroniques ;   
+\- NM 15.1.141 |  : |  instruments de mesurage - Niveaux à bulle ;  
+\- NM 15.1.143 |  : |  instruments de mesurage des angles auto-collimateurs ;   
+\- NM 15.1.145 |  : |  instruments de mesurage des angles - Mesures matérialisées ;  
+\- NM 15.5.037 |  : |  compteurs de volume de gaz à pistons rotatifs et compteurs de volume de gaz à turbine ;  
+\- NM 15.0.003 |  : |  métrologie - La fonction métrologie dans l'entreprise ;   
+\- NM 08.0.002 |  : |  système de management H.A.C.C.P. - Exigences ;  
+\- NM 08.0.001 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves, non acidifiées ou acidifiées, de produits alimentaires naturellement peu acides ;  
+\- NM 08.0.003 |  : |  code d'usages recommandé en matière d'hygiène pour les conserves d'aliments peu acides transformés et conditionnés aseptiquement ;  
+\- NM 08.0.004 |  : |  lignes directrices pour l'inspection visuelle de lots de conserves quant aux défauts inacceptables ;  
+\- NM 08.0.005 |  : |  code d'usages recommandés en matière d'hygiène pour les fruits et légumes en conserve ;  
+\- NM 08.2.004 |  : |  fruits et légumes en conserve - Petits pois - Spécifications ;   
+\- NM 08.2.011 |  : |  fruits et légumes en conserve - Petits pois - Détermination du remplissage adéquat pouvant remplacer la détermination du poids égoutté ;  
+\- NM 08.2.012 |  : |  fruits et légumes en conserve - Petits poids - Dosage de la matière insoluble dans l'alcool ;  
+\- NM 08.2.013 |  : |  fruits et légumes en conserve - Petits pois - Méthode pour distinguer la variété des pois ;  
+\- NM 08.2.014 |  : |  fruits et légumes en conserve - Carottes ;  
+\- NM 08.2.015 |  : |  fruits et légumes en conserve - Maïs doux ;  
+\- NM 08.2.017 |  : |  fruits et légumes en conserve - Asperges en conserve ;   
+\- NM 08.2.019 |  : |  fruits et légumes en conserve - Choux palmistes (cœurs de palmier) ;  
+\- NM 08.2.020 |  : |  fruits et légumes en conserve - Champignons de couche - Détermination du poids égoutté lavé.  
+  
+****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/32574.html type: Arrêté date_publication: 2003-02-21 title: Arrêté du ministre de l’industrie, du commerce et des télécommunications n° 386-03 du 19 hija 1423 (21 février 2003) portant homologation de normes marocaines"

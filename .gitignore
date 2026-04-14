@@ -1,0 +1,16 @@
+# Local datasets (installed separately)
+back/archive/qa.csv
+back/archive/train_with_file_content.csv
+
+
+# Python virtual environment
+.venv/
+
+# Secrets
+.env
+
+# Build artifacts
+back/artifacts/
+back/__pycache__/
+*.pyc
+back/venv/

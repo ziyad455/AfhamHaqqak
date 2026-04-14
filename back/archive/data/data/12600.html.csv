@@ -1,0 +1,1766 @@
+Question,Answer,Context
+ما هي الإجراءات اللازمة لإجراء اختبارات دقيقة لقياس opacité؟,"يعتمد إجراء اختبارات دقيقة لقياس opacité على عدة إجراءات، حسب نوع الاختبار (اختبار أولي أو دوري):
+
+**للاختبار الأولي:**
+
+1. **السيارات:** استخدام أربعة سيارات، كل منها مُتوافقة مع نوع مُحدد مُدرج في الجدول A.I من المرفق A للمنشور NM 22.9.023.  يجب أن تمثل كل سيارة تكوينًا مُحددًا في هذا الجدول.  يمكن اختيار التكوينات بالاتفاق مع المُصنع أو المُستورد للحصول على نتائج مُمثلة لجميع تكوينات الموافقة على النموذج.  يمكن التخطيط لتناوب التكوينات.
+
+2. **القياسات:**  للكل تكوين، يتم إجراء دورتين متتاليتين من خمسة تسارع مُقاسة، كما هو مُحدد في المنشور المذكور.
+
+3. **حساب الخطأ:** يُحسب خطأ القياس كمتوسط جبري لأربع أخطاء مُستخرجة من سلسلة من خمسة أخطاء تتوافق مع خمسة تسارع حرة متتالية، مع استبعاد الخطأ الذي يختلف أكثر عن المتوسط.
+
+4. **حدود الخطأ:** يجب أن تكون القيمة المُطلقة لأخطاء القياس المُحددة أعلاه أقل أو تساوي أكبر القيمتين التاليتين: 0.15 م⁻¹، و 10% من قيمة opacité الحقيقية المُقاسة، مُعبر عنها بوحدة م⁻¹.
+
+
+**للاختبار الدوري:**
+
+1. **السيارات:** يمكن تقليل عدد السيارات إلى ثلاث سيارات.
+
+2. **القياسات:** يتم إجراء الاختبارات في الظروف الموضحة في الفقرة A.1.1.
+
+3. **حدود الخطأ:** تُضاعف القيم القصوى المُسموح بها للاختبار الأولي بمعامل يساوي 1.2.
+
+
+**بشكل عام:**
+
+* يجب أن تُجرى الاختبارات من قبل الجهات المُختصة في الميترولوجيا أو من قبل جهة مُعتمدة من قبل الدولة.
+* يجب أن تُراعى جميع الشروط المُحددة في المنشور NM 22.9.023.
+* يجب أن يكون لدى المُصنع أو المُستورد القدرة على وصف جميع تفاصيل الإجراءات المُتخذة في حالة استخدام طريقة بديلة لقياس الدقة.
+* يجب أن يكون لدى المُصنع أو المُستورد القدرة على توفير جميع المستندات والمعلومات اللازمة لإجراء الاختبارات.
+
+
+يُرجى ملاحظة أن هذه الإجراءات مُستقاة من النص المُقدم، ويفضل الرجوع إلى النص الأصلي للتفاصيل الدقيقة.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+ما هي المعايير التي يجب أن يلتزم بها opacimètres لتلبية متطلبات الجودة؟,"يجب أن يلتزم opacimètres بالمعايير التالية لتلبية متطلبات الجودة:
+
+1. **المواصفات الفنية:** يجب أن يفي opacimètres بمتطلبات التصميم، والبناء، والاستخدام، كما هو محدد في المعيار NM 22.9.021.
+
+2. **الفحص الأولي:** يجب أن يخضع opacimètres للفحص الأولي من قبل الجهات المختصة، والذي يشمل فحصًا إداريًا واختبارات قياسية، ويجب ألا تتجاوز الأخطاء المحددة في الملحق المرفق بالقرار.
+
+3. **الفحص الدوري:** يجب أن يخضع opacimètres للفحص الدوري مرة واحدة سنوياً، والذي يشمل فحصًا إداريًا واختبارات قياسية، ويجب ألا تتجاوز الأخطاء المحددة في الملحق المرفق بالقرار.
+
+4. **القياس بالمعيار:** يجب أن يتم اختبار دقة opacimètres عن طريق مقارنته بـ opacimètre مرجعي، وفقًا للمعيار NM 22.9.020.
+
+5. **الوثائق والمعلومات:** يجب أن يحتوي opacimètre على دفتر تقني يسجل فيه جميع المعلومات المتعلقة بالعمليات، والصيانة، والإصلاحات.  يجب أن يكون هناك دليل استخدام يوضح كيفية الحصول على دقة كافية واستخدام الجهاز وفقًا للمعيار NM 22.9.022.
+
+6. **الاعتماد:** يجب أن يحصل opacimètre على شهادة اعتماد من جهة مختصة، وأن يلتزم بالمعايير المحددة في المعيار NM 22.9.023.
+
+7. **الأجهزة المركبة:** إذا كان الجهاز مركبًا مع جهاز تحليل غازات، فيجب أن يكون لكل منهما دفتر تقني منفصل.
+
+8. **العلامات:** يجب أن يحمل opacimètre علامة الجودة المطلوبة، وشهادة مطابقة.
+
+9. **الخبرات الفنية:** يجب على من يصنع أو يستورد أو يصلح opacimètres أن يمتلك الخبرة والقدرات الفنية اللازمة للقيام بالفحوصات وفقًا للقرار.
+
+
+باختصار، يجب أن يلتزم opacimètres بمعايير دقيقة وصارمة لتأمين دقة القياس وسلامة النتائج.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+كيف يتم التأكد من دقة opacimètres خلال عمليات الفحص الأولية والدورية؟,"يُتأكّد من دقة opacimètres خلال عمليات الفحص الأولية والدورية من خلال مقارنته بـ opacimètre مُعيار (مرجعي).
+
+**الفحص الأولي:**
+
+* **الاختبارات:**  تُجرى الاختبارات على أربعة سيارات، كل منها مُتوافقة مع نوع مُحدد مُدرج في الجدول A.I من المرفق A للمنشور الوطني NM 22.9.023.  يُمثّل كل نوع من هذه السيارات تكوينًا مُحددًا في الجدول.  يمكن اختيار التكوينات بالاتفاق مع المُصنّع أو المُستورد للحصول على نتائج مُمثلة لجميع تكوينات الموافقة على النموذج.  يمكن التخطيط لتناوب التكوينات.  لكل تكوين، يُنفّذ دورتان متتاليتان من خمسة تسارع مُقاسة، كما هو مُعرّف في المنشور الوطني المذكور.
+* **شروط القبول:** تُحسب خطأ القياس كمتوسط جبري لأربعة أخطاء مُستخلصة من سلسلة من خمسة أخطاء تتوافق مع خمسة تسارع حر متتالية، مع استبعاد الخطأ الذي يختلف أكثر عن المتوسط.  يجب أن تكون القيمة المُطلقة لأخطاء القياس المُعرّفة أعلاه أقل أو تساوي أكبر قيمة من القيمتين التاليتين: 0.15 m⁻¹؛ 10% من قيمة opacité المُعتمدة المُقاسة، مُعبر عنها بـ m⁻¹.
+
+**الفحص الدوري:**
+
+* **الاختبارات:** تُجرى الاختبارات في الظروف الموصوفة في الفقرة A.1.1، لكن يمكن تقليل عدد السيارات إلى ثلاثة.
+* **شروط القبول:** تُضاعف القيم القصوى المُسموح بها للفحص الأولي بمعامل يساوي 1.2.
+
+
+باختصار، يتم التأكد من دقة opacimètres من خلال مقارنته بـ opacimètre مُعيار،  وإجراء اختبارات على سيارات مُختلفة،  وتقييم الأخطاء المُكتشفة وفقًا لمعايير مُحددة.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+ما هي المسؤوليات المترتبة على المصنعين والمستوردين فيما يتعلق بـ opacimètres؟,"يتوجب على المصنعين والمستوردين للـ opacimètres الالتزام بما يلي:
+
+1. **توفير وثائق متعلقة بالتصميم والتصنيع:**  يجب تقديم وثائق تفصيلية عن تصميم وطريقة تصنيع الجهاز.
+
+2. **تقديم دليل استخدام:**  يجب توفير دليل استخدام واضح ومفصل يشرح كيفية تشغيل الجهاز وصيانته، مع توضيح إجراءات الفحص.
+
+3. **قائمة بالقطع المكونة للجهاز:**  يجب تقديم قائمة كاملة بجميع مكونات الجهاز.
+
+4. **مواصفات البرنامج:**  يجب تقديم مواصفات البرنامج، بما في ذلك البرنامج المدمج في الجهاز، ورمز البرمجة، ولغة البرمجة المستخدمة.
+
+5. **نسخة من البرنامج المُجمع:**  يجب تقديم نسخة من البرنامج المُجمع على قرص مضغوط (CD-ROM).
+
+6. **تقرير اختبارات وشهادة موافقة النموذج:**  يجب تقديم تقرير اختبارات وشهادة موافقة النموذج من جهة مختصة.
+
+7. **عينة من النموذج:**  يجب تقديم عينة من النموذج لأغراض الفحص والاختبار.
+
+8. **رسوم توضيحية لمواقع التوثيق:**  يجب تقديم رسم توضيحي يبين مواقع التوثيق المختلفة على الجهاز.
+
+9. **تصميم لوحة التعريف:**  يجب تقديم تصميم لوحة التعريف مع مواصفات الجهاز.
+
+10. **التزام بالمعايير:**  يجب أن يتوافق الجهاز مع المعايير المحددة في القرار، وخاصةً معايير NM 22.9.021 و NM 22.9.022 و NM 22.9.023.
+
+11. **وصف إجراءات الفحص البديلة:**  إذا تم استخدام طريقة بديلة لفحص دقة الجهاز بدلاً من المقارنة مع جهاز مرجعي، فيجب على المصنع أو المستورد وصف جميع تفاصيل هذه الطريقة البديلة.
+
+12. **القدرة على إجراء الفحوصات:**  يجب على كل من يرغب في الحصول على ترخيص لإنتاج أو استيراد أو إصلاح opacimètres أن يمتلك الكفاءة والوسائل التقنية اللازمة لإجراء الفحوصات وفقًا لأحكام هذا القرار.
+
+
+باختصار، يتحمل المصنعون والمستوردون مسؤولية ضمان أن opacimètres التي يقدمونها تلبي جميع المتطلبات الفنية والتقنية المحددة في القرار، وأنها آمنة وفعالة.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+ما هي أنواع opacimètres المشمولة بالقرار الوزاري رقم 1592-12؟,"يشمل القرار الوزاري رقم 1592-12  الأجهزة المستخدمة لقياس كثافة الغازات المنبعثة من المركبات ذات المحركات الاحتراق الداخلي، وخاصةً محركات الديزل.  ويُطلق عليها اسم ""الأوباسيمترات"".
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+ما هي العقوبات المترتبة على عدم الامتثال لأحكام القرار الوزاري رقم 1592-12؟,"للأسف، لا يوجد في النص المقدم أي معلومات عن العقوبات المترتبة على عدم الامتثال لأحكام القرار الوزاري رقم 1592-12.  النص يحدد فقط المتطلبات والاشتراطات الخاصة بالـ""أوباسيمترات"" (opacimètres)، دون ذكر أي عقوبات.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+ما هي أهمية opacimètres في مراقبة انبعاثات الغازات من المركبات؟,"أهمية opacimètres (قياسات الكثافة الضوئية) في مراقبة انبعاثات الغازات من المركبات تكمن في قدرتها على قياس مستوى انبعاثات الغازات الملوثة، وخاصةً تلك المنبعثة من محركات الديزل.  فهي تُستخدم لتحديد مستوى opacité (الكثافة الضوئية) للغازات المنبعثة، مما يُساعد في تقييم مستوى التلوث الهوائي.  هذا القياس ضروري لضمان الامتثال للمعايير البيئية، وتحديد مدى فعالية إجراءات التحكم في الانبعاثات.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+Quelles sont les normes techniques applicables aux opacimètres commerciaux à flux partiel ?,"Les normes techniques applicables aux opacimètres commerciaux à flux partiel sont la norme NM 22.9.021, pour les exigences de conception, de construction et d'utilisation, et la norme NM 22.9.023, pour la procédure de contrôle des opacimètres.  La norme NM 22.9.020 est également mentionnée pour les opacimètres étalons.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+"Quels sont les critères d'approbation du modèle pour les opacimètres, selon l'arrêté ?","L'arrêté précise que l'approbation du modèle des opacimètres est effectuée en conformité avec les normes NM 22.9.021 et NM 22.9.023.  Pour cela, le demandeur doit fournir :
+
+* **Documents relatifs à la conception et la fabrication de l'instrument.**
+* **Un guide d'utilisation** précisant le fonctionnement et l'entretien.
+* **Une liste de tous les éléments constitutifs de l'instrument.**
+* **Une fiche récapitulant les caractéristiques principales du logiciel** (logiciel intégré, code de programmation, langage de programmation).
+* **Une copie du logiciel compilé sur CD-ROM.**
+* **Un rapport d'essais et un certificat d'approbation du modèle délivrés par un organisme qualifié.**
+* **Un échantillon du modèle pour les examens et essais.**
+* **Un schéma indiquant l'emplacement des scellements.**
+* **Un projet de plaque d'identification** avec les caractéristiques réglementaires de l'instrument.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+Comment les vérifications périodiques des opacimètres sont-elles effectuées et quelles sont les erreurs maximales tolérées ?,"Les vérifications périodiques des opacimètres sont effectuées par les services de l'État chargés de la métrologie ou par un organisme agréé, une fois par an.  Elles comprennent un examen administratif et des essais métrologiques, réalisés conformément à la norme NM 22.9.023.  Les erreurs relevées lors de ces vérifications ne doivent pas dépasser les erreurs maximales tolérées, qui sont multipliées par un facteur de 1,2 par rapport aux valeurs de la vérification première.  Ces valeurs maximales tolérées sont détaillées dans l'annexe de l'arrêté.  L'annexe précise également que les essais sont effectués dans des conditions similaires à ceux de la vérification première, mais le nombre de véhicules peut être limité à trois.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+Quels sont les documents requis pour l'approbation du modèle d'un opacimètre ?,"Pour l'approbation du modèle d'un opacimètre, les documents suivants sont requis :
+
+* **Documents relatifs à la conception et à la fabrication de l'instrument.**
+* **Un guide d'utilisation précisant le mode de fonctionnement et l'entretien de l'instrument.**
+* **Une liste de tous les éléments constitutifs de l'instrument.**
+* **Une fiche récapitulant les caractéristiques principales du logiciel (logiciel intégré, code de programmation, langage de programmation).**
+* **Une copie du logiciel compilé sur CD-ROM.**
+* **Un rapport d'essais et un certificat d'approbation du modèle délivrés par un organisme qualifié.**
+* **Un échantillon du modèle pour les examens et essais.**
+* **Un schéma indiquant l'emplacement des scellements.**
+* **Un projet de plaque d'identification comportant les caractéristiques réglementaires de l'instrument.**
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+Comment les essais d'exactitude des opacimètres sont-ils réalisés lors de la vérification première et de la vérification périodique ?,"Lors de la vérification première, les essais d'exactitude de la mesure d'opacité des gaz d'échappement sont effectués par comparaison à un opacimètre étalon, conformément à la norme NM 22.9.020.  Ces essais impliquent quatre véhicules spécifiques, chacun correspondant à une configuration donnée.  Pour chaque configuration, deux cycles consécutifs de cinq accélérations mesurées sont effectués.  L'erreur de mesurage est calculée comme la moyenne algébrique de quatre erreurs, après avoir écarté l'erreur la plus éloignée de la moyenne.  Cette erreur doit être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15 m⁻¹ ou 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m⁻¹.
+
+Pour la vérification périodique, les essais sont effectués dans des conditions similaires (conformément à la norme NM 22.9.023), mais le nombre de véhicules peut être limité à trois.  Les valeurs maximales tolérées pour la vérification première sont multipliées par un coefficient de 1,2.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+Quelles sont les exigences relatives aux instruments combinés de mesure des gaz d'échappement et de l'opacité ?,"Les instruments combinés, destinés à mesurer les gaz d'échappement et l'opacité, doivent être munis séparément d'un carnet métrologique.  Ces instruments sont des opacimètres dont l'unité centrale est un analyseur de gaz.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."
+"Quels sont les moyens techniques nécessaires pour les demandeurs d'agrément pour la fabrication, l'importation ou la réparation des opacimètres ?","Les demandeurs d'agrément pour la fabrication, l'importation ou la réparation d'opacimètres doivent disposer des compétences et des moyens techniques nécessaires pour effectuer les vérifications conformément aux dispositions de l'arrêté.  Le texte ne détaille pas *spécifiquement* quels moyens techniques, mais il implique qu'ils doivent être capables de réaliser les vérifications, les essais et les procédures décrites dans l'arrêté et les normes mentionnées (notamment NM 22.9.021, 22.9.022, 22.9.023 et 22.9.020).  Cela suggère la nécessité d'équipements de mesure appropriés, de personnel qualifié, et de la capacité à reproduire les conditions d'essai.
+","### Context: ---  
+**Bulletin officiel n° 6136 du 9 joumada I 1434 (21 mars 2013)**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres.** **Le
+Ministre de l'industrie, du commerce et des nouvelles technologies,** Vu le
+décret n° 2-05-813 du 25 joumada I 1430 (21 mai 2009) relatif au contrôle des
+instruments de mesure, tel qu'il a été complété, notamment son article 3 ; Vu
+l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies
+n° 972-10 du 17 kaada 1431 (26 octobre 2010) fixant les modalités
+d'application des articles 17, 20, 30, 33 et 42 du décret n° 2-05-813 du 25
+joumada I 1430 (21 mai 2009) relatif au contrôle des instruments de mesure,
+**Arrête:** **Article Premier** : Sont soumis aux dispositions du présent
+arrêté les instruments destinés à mesurer l'opacité des gaz émis par les
+véhicules à moteur à allumage par compression, dits moteurs diesel. Ces
+instruments de mesure sont dénommés ci-après opacimètres. **Article2 :** Les
+opacimètres doivent satisfaire aux .exigences de conception, de construction
+et d'utilisation fixées par la norme NM 22.9.021 (véhicules routiers-Mesurage
+de l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Spécifications techniques des opacimètres commerciaux à
+flux partiel). **Article 3 :** Les opacimètres étalons doivent être munis d'un
+certificat d'étalonnage de validité récente délivré par un organisme qualifié.
+**Article 4** : Tout opacimètre doit avoir un carnet métrologique sur lequel
+sont consignées toutes les informations relatives aux opérations de contrôle,
+d'entretiens et de réparations subies. En cas d'absence ou de détérioration du
+carnet métrologique, les essais exigibles pour les opérations de contrôle,
+prévues à l'article 5 ci-dessous, doivent être réalisés. **Article 5 :** Tout
+opacimètre est soumis aux opérations de contrôle suivantes : \- approbation du
+modèle ; \- vérification première ; \- vérification périodique. **Article 6
+:** L'opacimètre doit être muni d'un guide d'utilisation comportant toutes les
+indications nécessaires pour obtenir une exactitude suffisante et une
+utilisation conforme à la norme NM 22.9.022 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Procédure de contrôle des polluants visibles (opacité)
+des gaz d'échappement). Ce guide d'utilisation doit décrire les procédures de
+vérifications. **Article 7** : L'approbation du modèle des opacimètres est
+effectuée conformément aux exigences de la norme NM 22.9.021 précitée et de la
+nonne NM 22.9.023 (Véhicules routiers-Mesurage de l'opacité des gaz
+d'échappement émis par les moteurs à allumage par compression
+(diesel)-Procédure de contrôle des opacimètres commerciaux à flux partiel), et
+par la présentation des éléments ci-après : \- des documents relatifs à la
+conception et à la fabrication de l'instrument ; un guide d'utilisation
+précisant le mode de fonctionnement de l'instrument et de son entretien ; une
+liste comportant tous les éléments constitutifs de l'instrument ; \- une fiche
+récapitulant les caractéristiques principales du logiciel, notamment le
+logiciel intégré dans l'instrument et le code de programmation, ainsi que le
+langage de programme utilisé ; \- une copie du logiciel compilé sur CDROM ; \-
+un rapport d'essais et un certificat d'approbation du modèle délivrés par un
+organisme qualifié ; \- un échantillon du modèle pour servir aux examens et
+essais en vue de l'approbation ; \- un schéma faisant apparaître l'emplacement
+des différents scellements ; \- un projet de plaque d'identification
+comportant les caractéristiques réglementaires de l'instrument. **Article 8
+:** Les essais d'exactitudes de vérifications première et périodique de la
+mesure d'opacité de gaz sont effectués, par comparaison à un opacimètre
+étalon, conformément à la norme NM 22.9.020 (Véhicules routiers-Mesurage de
+l'opacité des gaz d'échappement émis par les moteurs à allumage par
+compression (diesel)-Opacimètre étalon (de référence)). Les essais de la
+vérification première ou de la vérification périodique destinés à remplacer
+les essais d'exactitude par comparaison à un opacimètre, peuvent être
+effectués à condition que le fabricant ou l'importateur s'engage à décrire
+toutes les modalités de vérification qui en résultent. **Article 9 :** Les
+opacimètres présentés à la vérification première doivent satisfaire aux
+exigences prévues par le présent arrêté. Cette vérification comprend, pour
+chaque opacimètre, un examen administratif et des essais métrologiques. Ces
+essais sont réalisés par les services de l'Etat chargés de la métrologie ou
+par un organisme de droit public ou privé agréé à cet effet, conformément aux
+procédures de la norme NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 10 :** La
+vérification périodique des opacimètres est effectuée parles services de
+l'Etat chargés de la métrologie ou par un organisme de droit public ou privé
+agréé à cet effet, une fois par an. Elle comprend, pour chaque opacirnètre, un
+examen administratif et des essais métrologiques. Ces essais sont réalisés
+conformément à la nonne NM 22.9.023 précitée. Les erreurs relevées, lors de
+cette vérification, ne doivent pas dépasser les erreurs maximales tolérées
+fixées dans l'annexe jointe au présent arrêté. **Article 11 :** Les
+instruments combinés, destinés à mesurer le gaz d'échappement et d'opacité,
+doivent être munis séparément d'un carnet métrologique. Ces instruments
+combinés sont des opacimètres pour lesquels l'unité centrale est constituée
+par un analyseur de gaz. **Article 12 :** Tout demandeur de l'agrément pour la
+fabrication, l'importation ou la réparation des opacimétres, doit disposer des
+compétences et des moyens techniques nécessaires pour effectuer les
+vérifications conformément aux dispositions du présent arrêté. **Article 13
+:** La conformité des opacimétres aux dispositions du présent arrêté est
+attestée par l'apposition de l'une des marques de conformité prévues par la
+réglementation en vigueur et la délivrance d'une attestation de conformité.
+**Article 14 :** Le présent arrêté sera publié au Bulletin officiel.  __
+_Rabat, le 13 safar 1434 (27décembre 2012)._ **Abdelkader Amara.** ***** ***
+*** **Annexe** **Essais d'exactitude de la mesure d'opacité  
+en vérification première et en vérification périodique** **_A.
+1_****Vérification première** **** **A. 1.1. Essais** Lorsque la vérification
+première comporte des essais d'exactitude de la mesure d'opacité de gaz
+d'échappement par comparaison à un opacimètre de référence, ces essais
+impliquent quatre véhicules. Chacun de ces véhicules est conforme à un type
+donné au tableau A.I. de l'annexe A de la norme NM 22.9.023. Chaque type est
+représenté. Chacun des véhicules correspond à une configuration donnée dans ce
+tableau. Les configurations à mettre en œuvre peuvent être choisies, en accord
+avec le fabricant ou l'importateur, de façon à obtenir pour les quatre
+configurations d'essais des résultats représentatifs de l'ensemble des
+configurations d'approbation de modèle. Une alternance de configuration peut
+être prévue. Pour chaque configuration, deux cycles consécutifs de cinq
+accélérations mesurées, tels que définis par ladite norme, sont effectués.
+**A. 1.2. Conditions d'acceptation** Par convention, l'erreur de mesurage est
+égale à la moyenne algébrique de quatre erreurs extraites d'une série de cinq
+erreurs correspondant à cinq accélérations libres consécutives, dont on a
+écarté l'erreur s'écartant le plus de la moyenne qui correspondait aux cinq
+erreurs. La valeur absolue des erreurs de mesurage ci-dessus définies doit
+être inférieure ou égale à la plus grande des deux valeurs suivantes : 0,15
+m-1; 10 % de l'opacité conventionnellement vraie mesurée, exprimée en m-1.
+**_A.2._****Vérification périodique** **A.2.1. Les essais sont effectués dans
+les conditions décrites en A. 1.1.** Cependant, le nombre de véhicules peut
+être limité à trois.  **A.2.2. Critères d'acceptation** Les valeurs maximales
+tolérées pour la vérification première sont multipliées par un coefficient
+égal à 1,2. ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/12600.html type: Arrêté date_publication: 2012-12-27 title: Arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n° 1592-12 du 13 safar 1434 (27 décembre 2012) relatif aux opacimètres."

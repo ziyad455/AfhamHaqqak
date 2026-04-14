@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Moroccan Legal RAG Tester</title>
+    <style>
+      :root {
+        --bg: #f4efe5;
+        --panel: rgba(255, 251, 244, 0.84);
+        --panel-strong: #fffaf1;
+        --text: #1f2a2a;
+        --muted: #5b6663;
+        --line: rgba(31, 42, 42, 0.12);
+        --accent: #9d2f19;
+        --accent-soft: #f3d4bd;
+        --ok: #176b47;
+        --warn: #9b5d00;
+        --shadow: 0 22px 60px rgba(44, 35, 20, 0.12);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+        color: var(--text);
+        background:
+          radial-gradient(circle at top left, rgba(157, 47, 25, 0.14), transparent 28%),
+          radial-gradient(circle at right 15%, rgba(23, 107, 71, 0.14), transparent 24%),
+          linear-gradient(180deg, #fbf6ec 0%, var(--bg) 100%);
+      }
+
+      .shell {
+        width: min(1180px, calc(100% - 32px));
+        margin: 24px auto;
+        display: grid;
+        grid-template-columns: 1.05fr 0.95fr;
+        gap: 18px;
+      }
+
+      .panel {
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 24px;
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(14px);
+      }
+
+      .composer {
+        padding: 28px;
+      }
+
+      .results {
+        padding: 22px;
+        display: grid;
+        gap: 14px;
+        align-content: start;
+      }
+
+      .eyebrow {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 7px 12px;
+        border-radius: 999px;
+        background: rgba(157, 47, 25, 0.08);
+        color: var(--accent);
+        font-size: 12px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
+      }
+
+      h1 {
+        margin: 16px 0 12px;
+        font-family: "IBM Plex Serif", Georgia, serif;
+        font-size: clamp(2rem, 4vw, 3.4rem);
+        line-height: 0.98;
+        max-width: 10ch;
+      }
+
+      .lead {
+        margin: 0 0 22px;
+        max-width: 60ch;
+        color: var(--muted);
+        line-height: 1.6;
+      }
+
+      .status {
+        display: flex;
+        align-items: center;
+        gap: 10px;
+        margin-bottom: 20px;
+        padding: 14px 16px;
+        border-radius: 18px;
+        background: var(--panel-strong);
+        border: 1px solid var(--line);
+      }
+
+      .dot {
+        width: 12px;
+        height: 12px;
+        border-radius: 50%;
+        background: var(--warn);
+        box-shadow: 0 0 0 6px rgba(155, 93, 0, 0.08);
+      }
+
+      .dot.ok {
+        background: var(--ok);
+        box-shadow: 0 0 0 6px rgba(23, 107, 71, 0.08);
+      }
+
+      .label-row {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 8px;
+        gap: 12px;
+      }
+
+      label {
+        font-weight: 700;
+        font-size: 14px;
+      }
+
+      textarea {
+        width: 100%;
+        min-height: 270px;
+        resize: vertical;
+        border: 1px solid rgba(31, 42, 42, 0.16);
+        border-radius: 18px;
+        padding: 18px;
+        font: inherit;
+        line-height: 1.6;
+        color: var(--text);
+        background: rgba(255, 255, 255, 0.62);
+        outline: none;
+      }
+
+      textarea:focus {
+        border-color: rgba(157, 47, 25, 0.36);
+        box-shadow: 0 0 0 4px rgba(157, 47, 25, 0.08);
+      }
+
+      .actions {
+        margin-top: 16px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+      }
+
+      button {
+        border: 0;
+        border-radius: 14px;
+        padding: 12px 16px;
+        font: inherit;
+        font-weight: 700;
+        cursor: pointer;
+        transition: transform 120ms ease, opacity 120ms ease, background 120ms ease;
+      }
+
+      button:hover {
+        transform: translateY(-1px);
+      }
+
+      button:disabled {
+        opacity: 0.6;
+        cursor: wait;
+        transform: none;
+      }
+
+      .primary {
+        color: #fff;
+        background: linear-gradient(135deg, #b4371f 0%, #842515 100%);
+      }
+
+      .secondary {
+        color: var(--text);
+        background: var(--accent-soft);
+      }
+
+      .ghost {
+        color: var(--muted);
+        background: rgba(255, 255, 255, 0.62);
+        border: 1px solid var(--line);
+      }
+
+      .samples {
+        margin-top: 16px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+      }
+
+      .sample-chip {
+        border-radius: 999px;
+        padding: 9px 12px;
+        background: rgba(255, 255, 255, 0.62);
+        border: 1px solid var(--line);
+        font-size: 13px;
+      }
+
+      .card {
+        background: var(--panel-strong);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        padding: 16px;
+      }
+
+      .card h2 {
+        margin: 0 0 12px;
+        font-size: 14px;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+      }
+
+      .json-view {
+        margin: 0;
+        white-space: pre-wrap;
+        word-break: break-word;
+        font-family: "IBM Plex Mono", "SFMono-Regular", monospace;
+        font-size: 13px;
+        line-height: 1.6;
+      }
+
+      .response-grid {
+        display: grid;
+        gap: 12px;
+      }
+
+      .response-block {
+        padding: 14px;
+        border-radius: 16px;
+        background: rgba(244, 239, 229, 0.72);
+      }
+
+      .response-block strong {
+        display: block;
+        margin-bottom: 8px;
+        font-size: 13px;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
+      }
+
+      .response-block ul {
+        margin: 0;
+        padding-left: 18px;
+      }
+
+      .response-block li + li {
+        margin-top: 8px;
+      }
+
+      .muted {
+        color: var(--muted);
+      }
+
+      .error {
+        color: #8d1c13;
+      }
+
+      @media (max-width: 920px) {
+        .shell {
+          grid-template-columns: 1fr;
+        }
+
+        h1 {
+          max-width: unset;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="shell">
+      <section class="panel composer">
+        <span class="eyebrow">Moroccan Legal Scenario RAG</span>
+        <h1>Browser test page for the legal agent.</h1>
+        <p class="lead">
+          Use this page to send Arabic, Darija, French, or mixed legal scenarios to the API and inspect the grounded JSON response.
+        </p>
+
+        <div class="status" id="statusBox">
+          <span class="dot" id="statusDot"></span>
+          <div>
+            <div id="statusTitle"><strong>Checking API readiness...</strong></div>
+            <div class="muted" id="statusText">Waiting for `/health`.</div>
+          </div>
+        </div>
+
+        <div class="label-row">
+          <label for="scenarioInput">Scenario</label>
+          <span class="muted">POST `/analyze`</span>
+        </div>
+        <textarea id="scenarioInput" placeholder="Example: أنا كنخدم فشركة و بغاو يطردوني بلا إشعار. شنو كيقول القانون المغربي؟"></textarea>
+
+        <div class="actions">
+          <button class="primary" id="analyzeBtn">Analyze Scenario</button>
+          <button class="secondary" id="formatBtn" type="button">Pretty JSON</button>
+          <button class="ghost" id="clearBtn" type="button">Clear</button>
+        </div>
+
+        <div class="samples">
+          <button class="sample-chip" data-sample="أنا كنخدم فشركة خاصة وبغاو يوقفوني من الخدمة بلا إنذار مكتوب. شنو الحقوق ديالي؟">Darija Labor</button>
+          <button class="sample-chip" data-sample="Je suis locataire à Casablanca et le propriétaire veut m'expulser sans préavis écrit. Quelle base juridique peut s'appliquer ?">French Rent</button>
+          <button class="sample-chip" data-sample="واحد الشخص تشد من طرف الشرطة وبقى مدة طويلة قبل ما يتقدم للنيابة. quelles garanties procédurales peuvent s'appliquer ?">Mixed Police</button>
+        </div>
+      </section>
+
+      <section class="panel results">
+        <div class="card">
+          <h2>Structured View</h2>
+          <div class="response-grid" id="structuredOutput">
+            <div class="muted">No response yet.</div>
+          </div>
+        </div>
+
+        <div class="card">
+          <h2>Raw JSON</h2>
+          <pre class="json-view" id="jsonOutput">No response yet.</pre>
+        </div>
+      </section>
+    </main>
+
+    <script src="/static/app.js"></script>
+  </body>
+</html>

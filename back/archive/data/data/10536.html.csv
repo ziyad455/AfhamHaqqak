@@ -1,0 +1,1669 @@
+Question,Answer,Context
+هل هناك قيود محددة على أنواع المواد أو الأجزاء التي لا يجوز فيها استخدام اللحام؟,"نعم، هناك قيود محددة على أنواع المواد أو الأجزاء التي لا يجوز فيها استخدام اللحام، وفقًا للمادة الثانية من القرار المذكور. هذه القيود تشمل:
+
+**أ) المواد غير القابلة للحام أو الهشة:**
+
+*   يُمنع استخدام اللحام على الصفائح أو الأجزاء المصنوعة من مواد غير قابلة للحام أو هشة.
+
+**ب) الأجزاء المعرضة للتشوه:**
+
+*   يُمنع استخدام اللحام في الأجزاء التي تكون عرضة بشكل خاص للتشوه.
+
+**ج) أنواع معينة من التجميعات:**
+
+*   **التجميعات الطولية للصفائح المتداخلة:** يُمنع استخدام اللحام في التجميعات الطولية للصفائح المتداخلة (التي تتراكب فيها الصفائح).
+*   **التجميعات العرضية للصفائح المتداخلة:** يُمنع استخدام اللحام في التجميعات العرضية للصفائح المتداخلة بين الأسطوانات، أو بين الأسطوانة والشفة الزاوية، أو الطوق، أو القاع المحدب، إذا لم يكن هناك لحام على كل طرف.
+*   **تجميع القاع المقعر بالأسطوانة:** يُمنع استخدام اللحام في تجميع القاع المقعر بالأسطوانة عن طريق اللحام على الحواف.
+*   **تصنيع أو إصلاح أو تثبيت البراغي أو القضبان أو الدعامات:** يُمنع استخدام اللحام في تصنيع أو إصلاح أو تثبيت البراغي أو القضبان أو الدعامات.
+*   **تصنيع أو إصلاح أنابيب المياه في الغلايات المائية:** يُمنع استخدام اللحام في تصنيع أو إصلاح أنابيب المياه في الغلايات المائية عن طريق التوصيل.
+
+**د) إعادة ملء الصفائح المتآكلة:**
+
+*   لا يجوز استخدام اللحام لإعادة ملء الصفائح التي تعرضت للتآكل أو التحات وفقدت جزءًا من سمكها، إلا في الحالات التالية:
+    *   **التجاويف الصغيرة المعزولة:** إذا كانت التجاويف صغيرة ومعزولة عن بعضها البعض، ومحاطة بمعدن سليم، ولا تشكل خطًا من نقاط الضعف.
+    *   **التآكل المحدود:** إذا كان التآكل محدودًا ولا يتجاوز عمقه ثلث السمك الأصلي للصفيحة، وكان طريقة العمل والعملية المستخدمة لإعادة الملء لا تسبب إجهادات انكماش خطيرة.
+
+باختصار، يهدف هذا القرار إلى ضمان سلامة الأجهزة البخارية من خلال تقييد استخدام اللحام في الحالات التي قد تؤدي فيها إلى ضعف الهيكل أو زيادة خطر الفشل.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+ما هي المعايير التي يتم على أساسها تقييم قوة اللحام عند العمل تحت الشد؟,"بناءً على المرسوم الصادر في 17 ديسمبر 1953، يتم تقييم قوة اللحام العامل تحت الشد بناءً على المعايير التالية:
+
+**1. إمكانية فحص اللحام:**
+
+*   **7/10:** إذا كان اللحام قابلاً للفحص من كلا الجانبين بعد الانتهاء من عملية البناء.
+*   **6/10:** إذا كان اللحام قابلاً للفحص من كلا الجانبين أثناء عملية البناء فقط، أو إذا كان غير قابل للفحص من الجانب الخلفي حتى أثناء البناء، ولكنه تم تنفيذه باستخدام طريقة تعطي تلقائيًا حافة مستمرة على الجانب المقابل.
+*   **4/10:** إذا كان اللحام غير قابل للفحص من الجانب الخلفي ولم يتم تنفيذه باستخدام طريقة تعطي تلقائيًا حافة مستمرة على الجانب المقابل. ومع ذلك، يتم رفع هذه النسبة إلى 5/10 عند تنفيذ التجميعات العرضية لعناصر ذات مقاطع صغيرة، مثل أنابيب الدخان وأنابيب وأجهزة تجميع السخانات الفائقة.
+
+**2. عدم احتساب الزيادات في اللحام:**
+
+*   في حالة التجميع من طرف إلى طرف، لا يتم احتساب أي زيادة في سمك اللحام عند حساب المقاومة.
+
+**3. سمك اللحام في الزوايا:**
+
+*   في حالة اللحام المنفذ في زاوية ثنائية السطوح، يتم اعتبار السمك المستخدم في الحساب مساويًا لأقصر مسافة من قمة الزاوية إلى السطح الحر للحام، على ألا يتجاوز المسافة من القمة إلى الخط الذي يربط حواف اللحام في مقطع مستقيم من الزاوية ثنائية السطوح.
+
+**ملخص:**
+
+بشكل عام، يتم تقييم قوة اللحام العامل تحت الشد كجزء من قوة المعدن الأصلي، وتعتمد هذه النسبة على إمكانية فحص اللحام وجودة التنفيذ. كلما كان اللحام قابلاً للفحص بشكل أفضل وتم تنفيذه بطريقة تضمن الجودة، زادت النسبة المستخدمة في حساب المقاومة.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+ما هي المؤهلات المطلوبة للأفراد الذين يقومون بتنفيذ اللحام والإشراف عليه؟,"بناءً على المرسوم المذكور، يجب أن يكون الأفراد الذين يقومون بتنفيذ اللحام مؤهلين ومخصصين لهذا العمل. كما يجب أن يكون الأفراد الذين يشرفون على تنفيذ اللحام والتحقق منه مؤهلين أيضًا. بالإضافة إلى ذلك، يحق للشخص المسؤول عن اختبار الجهاز الجديد أو الجهاز الذي تم إصلاحه باللحام أن يطلب إثباتًا على الكفاءة المهنية للحام.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+كيف يجب تحضير الأجزاء المراد لحامها وكيف يتم الحفاظ عليها أثناء عملية اللحام؟,"بالرجوع إلى نص القرار، يجب تحضير الأجزاء المراد لحامها بعناية فائقة، ويجب أن تكون مثبتة أثناء عملية اللحام بحيث تتلاءم تمامًا مع بعضها البعض. وبشكل خاص، في حالة اللحام التناكبي (الرأس بالرأس)، يجب أن تكون حواف الأجزاء المراد لحامها متقابلة تمامًا أثناء العملية. وإذا كان هناك اختلاف في سمك الصفيحتين، يجب أن يتم تخفيف سمك الصفيحة الأكثر سمكًا تدريجيًا على طول يساوي أربعة أضعاف الفرق في السمك على الأقل، بحيث تكون الحواف المراد لحامها متساوية في السمك تقريبًا.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+ما هي الخصائص التي يجب أن يتمتع بها اللحام من حيث الشكل والمظهر؟,"وفقًا للمادة 8 من القرار، يجب أن يتمتع اللحام بالخصائص التالية من حيث الشكل والمظهر:
+
+أ) **من الأمام (الوجه الظاهر):**
+*   يجب أن يكون هناك حافة لحام مستمرة ومنتظمة.
+*   يجب أن تكون الحافة مرتفعة قليلاً في وصلات اللحام من الطرف إلى الطرف.
+*   يجب أن تكون الحافة متصلة تمامًا بمعدن القطع المراد لحامها.
+*   يجب ألا يكون هناك أي تجاويف أو أخاديد.
+
+ب) **من الخلف (الوجه المخفي):**
+*   يجب أن يكون هناك حافة لحام مستمرة أو سلسلة من القطرات المتقاربة والمتباعدة بانتظام.
+
+باختصار، يجب أن يكون اللحام متجانسًا، ومستمرًا، وخاليًا من العيوب الظاهرة مثل التجاويف والأخاديد، وأن يكون متصلًا بشكل جيد مع المعدن الأساسي.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+ما هي الإجراءات المتبعة للتحقق من جودة اللحام بعد الانتهاء منه؟,"بناءً على النص المقدم، إليك الإجراءات المتبعة للتحقق من جودة اللحام بعد الانتهاء منه:
+
+**1. الفحص البصري:**
+
+*   **الفحص من الأمام:** يجب أن يكون اللحام من الأمام ذا حافة مستمرة ومنتظمة، مع زيادة طفيفة في السماكة في وصلات التماس، وأن يكون مرتبطًا بشكل كامل بمعدن القطع المراد لحامها، دون وجود أي قنوات أو أخاديد.
+*   **الفحص من الخلف:** يجب أن يكون اللحام من الخلف ذا حافة مستمرة أو سلسلة من القطرات المتقاربة والمنتظمة التباعد.
+*   **استخدام المرايا:** في حالة عدم إمكانية الفحص المباشر من الخلف، يمكن استخدام المرايا للمساعدة في الفحص.
+
+**2. التحقق من عملية اللحام:**
+
+*   بالنسبة للحامات التي لا يمكن فحصها من الخلف، يجب على المُصنّع أو المُصلّح أن يثبت أثناء الاختبار أنه تم إجراء الفحص المذكور أعلاه أو أنه تم استخدام طريقة تعطي تلقائيًا حافة مستمرة من الخلف.
+
+**3. إزالة الزيادات:**
+
+*   بعد الفحص، يمكن إزالة الزيادات في اللحام.
+
+**4. الاختبار أثناء الضغط الهيدروليكي:**
+
+*   أثناء الاختبارات التي تجرى بعد اللحام، يجب فحص خطوط اللحام أثناء وجود الجهاز تحت ضغط هيدروليكي باستخدام مطرقة ذات وزن مناسب.
+
+**5. التعامل مع التسربات والعيوب:**
+
+*   في حالة وجود تسرب، يجب عدم معالجة اللحام أو إعادة تعبئته، بل يجب إعادة عمل الجزء المعيب.
+*   يجب إعادة عمل أي لحام يظهر عليه علامات انفصال أو تشقق أو أي علامات ضعف أخرى، مع تعديل الموقع أو ظروف التنفيذ أو حتى شكل القطع إذا لزم الأمر لمنع تكرار هذه العيوب.
+
+**ملخص:**
+
+تتضمن عملية التحقق من جودة اللحام فحصًا بصريًا دقيقًا من الأمام والخلف، والتحقق من عملية اللحام نفسها، وإزالة الزيادات، وإجراء اختبارات أثناء الضغط الهيدروليكي، وإعادة عمل اللحامات المعيبة. هذه الإجراءات تهدف إلى ضمان سلامة وكفاءة الأجهزة التي تعتمد على اللحام في بنائها أو إصلاحها.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+ما هي الإجراءات التي يجب اتخاذها في حالة وجود تسرب أو عيوب في اللحام؟,"بناءً على النص المقدم، في حالة وجود تسرب أو عيوب في اللحام، يجب اتخاذ الإجراءات التالية:
+
+1.  **عدم الطرق أو إعادة اللحام:** لا يجب معالجة التسرب عن طريق الطرق أو إعادة اللحام فوق الجزء المتسرب.
+2.  **إعادة اللحام:** يجب إعادة اللحام في الجزء المعيب بشكل كامل.
+3.  **تعديل الظروف:** إذا ظهرت علامات انفصال أو تشقق أو أي مؤشرات ضعف أخرى في اللحام، يجب إعادة اللحام مع تعديل موقع اللحام أو ظروف التنفيذ أو حتى شكل القطع لتجنب تكرار العيوب.
+
+باختصار، يجب عدم محاولة إصلاح اللحام المعيب بشكل مؤقت، بل يجب إعادة اللحام بشكل كامل مع الأخذ في الاعتبار أسباب العيب لتجنب تكراره.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+Quels types d'assemblages par soudure sont explicitement interdits selon l'article 2 de l'arrêté ?,"Selon l'article 2 de l'arrêté du 17 décembre 1953, les types d'assemblages par soudure explicitement interdits sont les suivants :
+
+*   **Sur des tôles ou pièces de qualité non soudable ou fragile.**
+*   **Dans les parties d'appareils particulièrement sujettes à déformation.**
+*   **Dans la réalisation des assemblages longitudinaux des viroles par recouvrement.**
+*   **Dans la réalisation des assemblages transversaux par recouvrement d'une virole avec une autre virole, une bride cornière, une collerette ou un fond convexe, s'il n'y a pas de soudure sur chaque about.**
+*   **Dans l'assemblage d'un fond concave avec une virole par soudure sur les tranches.**
+*   **Dans la fabrication, la réparation ou la fixation des boulons, tirants ou entretoises.**
+*   **Dans la fabrication ou la réparation par raboutage des tubes à eau des chaudières aquatubulaires.**
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+"Comment est évaluée la résistance d'une soudure travaillant à la traction, et quelles sont les fractions appliquées selon l'article 3 ?","Selon l'article 3 de l'arrêté du 17 décembre 1953, la résistance d'une soudure travaillant à la traction est évaluée à une fraction de la résistance que présenterait le métal s'il était continu et sans soudure. Cette fraction varie en fonction de la vérifiabilité de la soudure :
+
+*   **7/10** : Si la soudure reste vérifiable sur ses deux faces après la construction.
+*   **6/10** : Si la soudure n'est vérifiable sur ses deux faces qu'au cours de la construction, ou si, non vérifiable à l'envers même en cours de construction, elle est exécutée par un procédé donnant automatiquement un bourrelet continu sur la face opposée.
+*   **4/10** : Si la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé donnant automatiquement un bourrelet continu sur la face opposée. Cette fraction est toutefois portée à **5/10** dans l'exécution des assemblages transversaux d'éléments de petites sections, tels que les tubes à fumée, les tubes et collecteurs de surchauffeurs.
+
+En résumé, la fraction appliquée dépend de la possibilité de vérifier la soudure et du procédé utilisé pour sa réalisation.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+"Quelle épaisseur de soudure est prise en compte pour le calcul de la résistance dans un assemblage bout à bout et dans un angle dièdre, selon l'article 4 ?","Selon l'article 4 de l'arrêté du 17 décembre 1953 :
+
+*   **Assemblage bout à bout :** Aucune surépaisseur de soudure n'est prise en compte pour le calcul de la résistance.
+*   **Soudure dans un angle dièdre :** L'épaisseur retenue pour le calcul est égale à la plus courte distance du sommet de l'angle à la surface libre de la soudure. Cependant, cette distance ne doit pas excéder la distance du sommet à la droite joignant les bords de la soudure dans une section droite de l'angle dièdre.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+"Quelles sont les exigences concernant les personnes exécutant et surveillant les soudures, et comment leur compétence peut-elle être justifiée selon l'article 5 ?","Selon l'article 5 de l'arrêté du 17 décembre 1953, voici les exigences concernant les personnes exécutant et surveillant les soudures :
+
+*   **Exécution des soudures :** Les soudures ne doivent être exécutées que par des personnes **qualifiées** et spécifiquement affectées à ce travail. Cela signifie que les soudeurs doivent posséder les compétences et la formation nécessaires pour réaliser des soudures conformes aux normes de sécurité.
+
+*   **Surveillance et vérification des soudures :** La surveillance de l'exécution des soudures et leur vérification ne doivent être confiées qu'à des personnes également **qualifiées**. Ces personnes doivent avoir l'expertise nécessaire pour s'assurer que les soudures sont réalisées correctement et qu'elles répondent aux exigences de qualité et de sécurité.
+
+*   **Justification de la compétence :** Lors de l'épreuve d'un appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la personne chargée de l'épreuve a le droit d'exiger la justification de la capacité professionnelle du soudeur. Cela signifie que le soudeur doit être en mesure de prouver qu'il possède les qualifications nécessaires pour effectuer les soudures en toute sécurité. Cette justification peut prendre la forme de certificats, de diplômes ou de toute autre preuve de compétence reconnue.
+
+En résumé, l'article 5 insiste sur la nécessité de confier les travaux de soudure à des professionnels qualifiés, tant pour l'exécution que pour la surveillance, et prévoit un mécanisme pour vérifier la compétence des soudeurs lors des épreuves des appareils.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+"Comment les pièces doivent-elles être préparées et maintenues lors de l'exécution de la soudure, notamment dans un assemblage bout à bout, selon l'article 6 ?","Selon l'article 6 de l'arrêté du 17 décembre 1953, les pièces à assembler doivent être soigneusement préparées et maintenues de façon à s'adapter parfaitement l'une à l'autre pendant l'exécution de la soudure.
+
+Plus précisément, dans un assemblage bout à bout :
+
+*   **Maintien en face:** Les tranches des pièces à assembler doivent être maintenues exactement en face l'une de l'autre pendant l'opération de soudure.
+*   **Délardage en cas d'épaisseurs différentes:** Si les deux tôles ont des épaisseurs différentes, la plus épaisse doit être délardée progressivement. Le délardage doit se faire sur une longueur au moins égale au quadruple de la différence d'épaisseur, de manière à ce que les tranches à souder se présentent sensiblement à égalité d'épaisseur.
+
+En résumé, l'article 6 insiste sur la nécessité d'une préparation minutieuse et d'un maintien précis des pièces pour assurer une soudure de qualité, en particulier dans les assemblages bout à bout où l'alignement et l'égalité d'épaisseur des tranches sont cruciaux.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+"Quelles sont les exigences concernant l'aspect de la soudure à l'endroit et à l'envers, selon l'article 8 ?","Selon l'article 8 de l'arrêté du 17 décembre 1953, les exigences concernant l'aspect de la soudure sont les suivantes :
+
+*   **À l'endroit :** La soudure doit présenter un bourrelet continu et régulier, en légère surépaisseur dans les assemblages bout à bout. Ce bourrelet doit être parfaitement lié au métal des pièces à assembler, sans caniveau ni sillons.
+
+*   **À l'envers :** La soudure doit présenter un bourrelet continu ou une suite de gouttelettes rapprochées et régulièrement espacées.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
+"Quelles sont les actions à entreprendre en cas de fuite ou de défaut constaté sur une soudure, selon l'article 11 ?","Selon l'article 11 de l'arrêté du 17 décembre 1953, en cas de fuite ou de défaut constaté sur une soudure, les actions suivantes sont à entreprendre :
+
+1.  **Ne pas mater ni recharger la soudure:** Il est explicitement interdit de tenter de réparer une fuite en matant (c'est-à-dire en frappant pour refermer) ou en rechargeant la soudure.
+2.  **Refaire la soudure dans la partie défectueuse:** La soudure doit être entièrement refaite dans la zone où la fuite ou le défaut a été constaté.
+3.  **Modifier si nécessaire l'emplacement, les conditions d'exécution ou la forme des pièces:** Si la soudure présente des traces de décollement, de fissuration ou tout autre signe d'affaiblissement, il est nécessaire de refaire la soudure en modifiant, si besoin, son emplacement, ses conditions d'exécution ou même la forme des pièces à assembler. L'objectif est de prévenir la réapparition de ces défauts.
+
+En résumé, l'article 11 insiste sur le fait qu'une soudure défectueuse ne doit pas être réparée superficiellement, mais entièrement refaite en prenant en compte les causes possibles du défaut.
+","### Context: ---  
+**Bulletin officiel n° 2149 du 1er janvier 1954**  
+**EDITION DE TRADUCTION OFFICIELLE**  
+****  
+**Arrêté du directeur de la production industrielle et des mines du 17
+décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou
+acier dans la construction et la réparation des appareils à vapeur à terre.**
+**** **Le directeur de la production industrielle et des mines,** **officier,
+de la légion d'honneur,** **** Vu le dahir du 22 juillet 1953 portant
+règlement sur l'emploi des appareils à vapeur à terre et notamment les
+articles 9 et 17 ; Vu l'arrêté du directeur de la production industrielle et
+des mines du 19 août 1953 réglementant la construction, l'entretien et
+l'établissement des appareils à vapeur à terre [9073](textes-reglementaires-
+consolides.php?id=1111&numtitre=</span><span style='font-size:11.0pt;font-
+family:)(cliquez ici) , et notamment l'article 2, **Arrête :** **** **Article
+premier :** Dans la construction et la réparation des appareils à vapeur
+assujettis à la réglementation du dahir susvisé du 22 juillet 1953, l'emploi
+de la soudure à bords fondus sur des tôles ou pièces de fer ou d'acier est
+soumis aux règles énoncées dans le présent arrêté toutes les fois que la
+résistance de la soudure est nécessaire pour assurer la sécurité d'emploi d'un
+appareil. Les soudures effectuées sur les tuyauteries de vapeur dans
+lesquelles la pression peut dépasser 4 hectopièzes sont également soumises aux
+conditions prévues à l'alinéa précédent. **Article 2 :** Il est interdit
+d'employer la soudure : a) Sur des tôles ou pièces de qualité, non soudable ou
+fragile ; b) Dans les parties d'appareils particulièrement sujettes à
+déformation ; c) Dans la réalisation : Des assemblages longitudinaux des
+viroles par recouvrement ;  Des assemblages transversaux par recouvrement
+d'une virole avec une autre virole, une bride cornière, une collerette ou un
+fond convexe, s'il n'y a pas de soudure sur chaque about ;  De l'assemblage
+d'un fond concave avec une virole par soudure sur les tranches ;  b) Dans la
+fabrication, la réparation ou la fixation des boulons, tirants ou entretoises
+;  c) Dans la fabrication ou la réparation par raboutage des tubes à eau des
+chaudières aquatubulaires.  En outre, la soudure ne peut être utilisée pour
+recharger des tôles ayant subi par corrosion ou érosion des diminutions
+d'épaisseur, que lorsqu'il s'agit :  Soit de petites cavités isolées l'une de
+l'autre, environnées de métal sain et ne constituant pas par leur disposition
+une ligne de moindre résistance ;  Soit d'une corrosion de faible étendue,
+dont la profondeur maximum n'excède pas le tiers de l'épaisseur primitive de
+la tôle, et lorsque le mode de travail de la tôle et le procédé mis en œuvre
+pour le rechargement sont tels qu'il n'y ait pas à craindre de tensions de
+retrait dangereuses.  **Article 3 :** Pour la détermination des formes et
+dimensions des pièces à assembler et des soudures, la résistance d'une soudure
+travaillant à la traction sera évaluée à une fraction de la résistance que
+présenterait le métal s'il était continu et sans soudure. Cette fraction sera
+égale à :  a) 7/10 si la soudure reste, postérieurement à la construction,
+vérifiable sur ses deux faces ;  b) 6/10 si la soudure n'est vérifiable sur
+ses deux faces qu'au cours de la construction, ou si, non vérifiable à
+l'envers même en cours de construction, elle est exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ;  c) 4/10 si
+la soudure, non vérifiable à l'envers, n'est pas exécutée par un procédé
+donnant automatiquement un bourrelet continu sur la face opposée ; cette
+fraction est toutefois portée à 5/10 dans l'exécution des assemblages
+transversaux d'éléments de petites sections, tels que les tubes à fumée, les
+tubes et collecteurs de surchauffeurs.  **Article 4 :** Dans un assemblage
+bout à bout, aucune surépaisseur de soudure ne sera prise en compte pour le
+calcul de la résistance.  Dans le cas d'une soudure exécutée dans un angle
+dièdre, l'épaisseur retenue pour ce calcul sera égale à la plus courte
+distance du sommet de cet angle à la surface libre de la soudure, sans excéder
+toutefois la distance du sommet à la droite joignant les bords de la soudure
+dans une section droite de l'angle dièdre.  **Article 5 :** Les soudures ne
+doivent être exécutées que par des personnes qualifiées et affectées à ce
+travail.  La surveillance de l'exécution des soudures et leur vérification ne
+doivent être confiées qu'à des personnes qualifiées.  Lors de l'épreuve d'un
+appareil neuf ou d'une épreuve consécutive à une réparation par soudure, la
+personne chargée de l'épreuve pourra exiger la justification de la capacité
+professionnelle du soudeur.  **Article 6 :** Les pièces à assembler doivent
+avoir été soigneusement préparées et être, pendant l'exécution de la soudure,
+maintenues de façon à s'adapter parfaitement l'une à l'autre.  En particulier,
+dans un assemblage bout à tout les tranches des pièces à assembler doivent
+être maintenues exactement en face l'une de l'autre pendant l'opération. Si
+les deux tôles sont d'épaisseur différente, la plus épaisse doit être délardée
+progressivement, et sur une longueur au moins égale au quadruple de la
+différence d'épaisseur de façon à ce que les tranches à souder se présentent
+sensiblement à égalité d'épaisseur.  **Article 7 :** Le choix du métal
+d'apport, le procédé de soudure et sa mise en œuvre, ainsi que les traitements
+ultérieurs éventuels doivent être tels que l'assemblage soit exempt de
+fragilité.  Des dispositions doivent être prises, notamment, dans le cas de
+soudures non vérifiables sur leur deux faces, pour assurer une parfaite
+pénétration de la soudure, en même temps que la fusion complète des bords des
+pièces à assembler.  Toute surface sur laquelle doit porter une soudure doit
+être préparée et l'exécution de la soudure conduite de façon à assurer la
+parfaite liaison entre le métal sur lequel elle porte et le métal d'apport,
+ainsi qu'à exclure les soufflures, scories ou inclusions et, en général, les
+défauts d'homogéné1té.  **Article 8 :** La soudure doit présenter :  a) A
+l'endroit, un bourrelet continu et régulier, en légère surépaisseur dans les
+assemblages bout à bout, et parfaitement lié au métal des pièces à assembler,
+sans caniveau ni sillons ;  b) A l'envers, un bourrelet continu ou une suite
+de gouttelettes rapprochées et régulièrement espacées.  **Article 9 :** Toute
+soudure doit être vérifiée avec soin à l'endroit et, sauf impossibilité, à
+l'envers, directement ou à l'aide de miroirs.  Pour les soudures visées à
+l'article 3, paragraphe b), le constructeur ou le réparateur doit, lors de
+l'épreuve, justifier de l'exécution de la vérification prévue à l'alinéa
+précédent ou de l'emploi d'un procédé donnant automatiquement un bourrelet
+continu à l'envers.  Après vérification, les surépaisseurs pourront être
+enlevées.  **Article 10 :** Lors des épreuves consécutives à l'exécution des
+soudures, les lignes de soudure doivent être explorées, pendant que l'appareil
+est sous pression hydraulique, au moyen d'un marteau de masse appropriée.
+**Article 11 :** En cas de fuite, une soudure ne doit pas être matée ni
+rechargée, mais refaite dans la partie défectueuse.  Toute soudure présentant
+des traces de décollement ou de fissuration, ou plus généralement des indices
+quelconques d'affaiblissement, doit être refaite, en modifiant au besoin son
+emplacement ou ses conditions d'exécution ou même la forme des pièces, de
+façon à prévenir le retour de ces défectuosités.  **Article 12 :** Des
+dérogations aux dispositions du présent arrêté pourront être accordées par
+décision du directeur de la production industrielle et des mines, sur rapport
+du chef du service des mines. _Rabat, le 17 décembre 1953._ **A. Pommerie.**
+**** ****
+
+ ### Source: URL: https://juridiahackhaton.blob.core.windows.net/fine-tuning/documents/10536.html type: Arrêté date_publication: 1953-12-17 title: Arrêté du directeur de la production industrielle et des mines du 17 décembre 1953 réglementant l'emploi de la soudure à bords fondus sur fer ou acier dans la construction et la réparation des appareils à vapeur à terre."
